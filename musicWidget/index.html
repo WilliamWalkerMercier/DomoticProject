@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Assistant Cuisine</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: sans-serif;
+            display: grid;
+            grid-template-rows: auto 1fr;
+            height: 100vh;
+            background-color: #f7f7f7;
+        }
+
+        header {
+            background-color: #024726;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+            font-size: 1.5rem;
+        }
+
+        main {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+            padding: 1rem;
+        }
+
+        section {
+            background: white;
+            border-radius: 12px;
+            padding: 1rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .timer-circle {
+            position: relative;
+            width: 150px;
+            height: 150px;
+        }
+
+        svg {
+            transform: rotate(-90deg);
+        }
+
+        .timer-text, .timer-end {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+        }
+
+        .timer-text {
+            top: 40%;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .timer-end {
+            top: 65%;
+            font-size: 14px;
+            color: #666;
+        }
+
+        button {
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+            border: none;
+            border-radius: 6px;
+            background: #ffde59;
+            cursor: pointer;
+        }
+
+        .plus-timer {
+            font-size: 2rem;
+            color: #888;
+            border: 2px dashed #ccc;
+            padding: 2rem;
+            border-radius: 12px;
+            cursor: pointer;
+            text-align: center;
+        }
+
+        .playlist {
+            width: 100%;
+            text-align: left;
+        }
+        .playlist li {
+            margin-bottom: 4px;
+        }
+    </style>
+</head>
+<body>
+<header>Assistant Cuisine</header>
+<main id="main">
+    <!-- Minuteur -->
+    <section>
+        <h2>Minuteur Viande</h2>
+        <div class="timer-circle">
+            <svg viewBox="0 0 100 100">
+                <circle cx="50" cy="50" r="45" stroke="#eee" stroke-width="10" fill="none" />
+                <circle class="progress" cx="50" cy="50" r="45" stroke="tomato" stroke-width="10" fill="none"
+                        stroke-dasharray="282.6" stroke-dashoffset="0" />
+            </svg>
+            <div class="timer-text">00:00</div>
+            <div class="timer-end">Fin : --:--</div>
+        </div>
+        <button onclick="startTimer(this, 600)">Démarrer 10 min</button>
+    </section>
+
+    <!-- Recettes -->
+    <section>
+        <h2>Recette du jour</h2>
+        <p>Spaghetti à la carbonara</p>
+        <ul>
+            <li>Pâtes</li>
+            <li>Lardons</li>
+            <li>Œufs, Crème, Parmesan</li>
+        </ul>
+        <button>Voir plus de recettes</button>
+    </section>
+
+    <!-- Playlist -->
+    <section>
+        <h2>Musique</h2>
+        <audio id="audioPlayer" controls style="width: 100%;"></audio>
+        <ul class="playlist" id="playlist"></ul>
+        <button onclick="nextTrack()">⏭ Prochain</button>
+        <button onclick="toggleShuffle()">🔀 Aléatoire</button>
+    </section>
+
+    <!-- Ajouter un minuteur -->
+    <section class="plus-timer" onclick="addTimer()">
+        ➕ Ajouter un minuteur
+    </section>
+</main>
+
+<script>
+    function startTimer(button, duration) {
+        const section = button.closest("section");
+        const circle = section.querySelector(".progress");
+        const countdown = section.querySelector(".timer-text");
+        const endTimeDisplay = section.querySelector(".timer-end");
+        const fullDash = 2 * Math.PI * 45;
+        const end = Date.now() + duration * 1000;
+        const endTime = new Date(end);
+
+        endTimeDisplay.textContent = "Fin : " + endTime.toLocaleTimeString([], {hour: '2-digit', minute: '2-digit'});
+
+        const interval = setInterval(() => {
+            const now = Date.now();
+            const remaining = Math.max(0, Math.floor((end - now) / 1000));
+            const percent = remaining / duration;
+            const minutes = String(Math.floor(remaining / 60)).padStart(2, '0');
+            const seconds = String(remaining % 60).padStart(2, '0');
+
+            countdown.textContent = `${minutes}:${seconds}`;
+            circle.setAttribute("stroke-dashoffset", fullDash * (1 - percent));
+
+            if (remaining <= 0) clearInterval(interval);
+        }, 1000);
+    }
+
+    function addTimer() {
+        const template = `
+      <section>
+        <h2>Minuteur</h2>
+        <div class="timer-circle">
+          <svg viewBox="0 0 100 100">
+            <circle cx="50" cy="50" r="45" stroke="#eee" stroke-width="10" fill="none" />
+            <circle class="progress" cx="50" cy="50" r="45" stroke="tomato" stroke-width="10" fill="none"
+                    stroke-dasharray="282.6" stroke-dashoffset="0" />
+          </svg>
+          <div class="timer-text">00:00</div>
+          <div class="timer-end">Fin : --:--</div>
+        </div>
+        <button onclick="startTimer(this, 600)">Démarrer 10 min</button>
+      </section>`;
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(template, 'text/html');
+        const newSection = doc.body.firstChild;
+        const main = document.getElementById("main");
+        main.insertBefore(newSection, main.lastElementChild); // avant le "+" timer
+    }
+
+    // Musique
+    const tracks = [
+        { title: "Chanson 1", src: "musique1.mp3" },
+        { title: "Chanson 2", src: "musique2.mp3" },
+        { title: "Chanson 3", src: "musique3.mp3" },
+    ];
+    let currentTrack = 0;
+    let shuffle = false;
+
+    const player = document.getElementById("audioPlayer");
+    const playlist = document.getElementById("playlist");
+
+    function loadTrack(index) {
+        player.src = tracks[index].src;
+        player.play();
+        updatePlaylist(index);
+    }
+
+    function nextTrack() {
+        if (shuffle) {
+            currentTrack = Math.floor(Math.random() * tracks.length);
+        } else {
+            currentTrack = (currentTrack + 1) % tracks.length;
+        }
+        loadTrack(currentTrack);
+    }
+
+    function toggleShuffle() {
+        shuffle = !shuffle;
+        alert("Lecture aléatoire : " + (shuffle ? "activée" : "désactivée"));
+    }
+
+    function updatePlaylist(currentIndex) {
+        playlist.innerHTML = "Prochaines :<br><ul>" +
+            tracks.map((t, i) => i !== currentIndex ? `<li>${t.title}</li>` : '').filter(Boolean).slice(0, 2).join('') +
+            "</ul>";
+    }
+
+    window.onload = () => {
+        loadTrack(currentTrack);
+    }
+</script>
+</body>
+</html>

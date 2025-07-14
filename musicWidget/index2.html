@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Music Player</title>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div id="audioContainer">
+    <div class="vinyl"></div>
+    <div id="audioInfo">
+        <h1>Titre: ---</h1>
+        <p>Artist: ---</p>
+        <p> Duree: ---</p>
+    </div>
+    <div class="progressBar">
+        <div class="progress"></div>
+    </div>
+    <div id="timeDisplay">00:00 / 00:00</div>
+
+    <audio id="audioPlayer" controls></audio>
+    <div id="audioControls" class="controls">
+        <button onclick="updateShuffle()" id="shuffle">🔀</button>
+        <button onclick="playPrevious()" id="previous">⏮️</button>
+        <button onclick="play(currentIndex ?? 0)" id="pauseButton">⏯️</button>
+        <button onclick="playNext()" id="next">⏭️</button>
+    </div>
+</div>
+<script src="scriptMusic.js"></script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+#audioContainer {
+    font-family: Arial, sans-serif;
+    background-color: #481c7c;
+    color: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px #000a;
+}
+
+#audioContainer h1 {
+    width: 250px;
+    margin-bottom: 20px;
+    color: #ffde59;
+}
+
+audio {
+    display: none;
+}
+.progressBar {
+    width: 250px;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.progress {
+    height: 100%;
+    width: 0%;
+    background-color: #4caf50;
+    transition: width 0.2s ease;
+}
+
+
+
+.vinyl {
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    background: red;
+    border: 10px solid rgb(1, 10, 78);
+    margin-bottom: 20px;
+}
+
+#audioInfo {
+    width: 250px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+#audioInfo h1 {
+    font-size: 15px;
+    margin: 5px 0;
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+#audioInfo p {
+    margin: 3px 0;
+    font-size: 14px;
+    color: #ccc;
+}
+
+#audioControls {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+.shuffle {
+    border:3px solid red;
+}
+
+#audioControls button {
+    font-size: 24px;
+    background-color: #481c7c;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#audioControls button:hover {
+    background-color: #555;
+}
+
+#audioPlayer {
+    width: 100%;
+    margin-top: 10px;
+    accent-color: #ffde59;
+}

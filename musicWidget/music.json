@@ -1,0 +1,3086 @@
+[
+  {
+    "title": "Escape (The Piña Colada Song)",
+    "author": "10. Rupert Holmes",
+    "duration": "3:47",
+    "path": "music/10. Rupert Holmes - Escape (The Piña Colada Song).mp3"
+  },
+  {
+    "title": "Ain't No Mountain High Enough",
+    "author": "12. Marvin Gaye & Tammi Terrell",
+    "duration": "2:24",
+    "path": "music/12. Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough.mp3"
+  },
+  {
+    "title": "Go All The Way",
+    "author": "2. Raspberries",
+    "duration": "3:18",
+    "path": "music/2. Raspberries - Go All The Way.mp3"
+  },
+  {
+    "title": "Mood (feat. iann dior)",
+    "author": "24kGoldn",
+    "duration": "2:20",
+    "path": "music/24kGoldn - Mood (feat. iann dior).mp3"
+  },
+  {
+    "title": "Kryptonite",
+    "author": "3 Doors Down",
+    "duration": "3:54",
+    "path": "music/3 Doors Down - Kryptonite.mp3"
+  },
+  {
+    "title": "What's Up",
+    "author": "4 Non Blondes",
+    "duration": "4:52",
+    "path": "music/4 Non Blondes - What's Up.mp3"
+  },
+  {
+    "title": "Fooled Around and Fell in Love",
+    "author": "5. Elvin Bishop",
+    "duration": "4:34",
+    "path": "music/5. Elvin Bishop - Fooled Around and Fell in Love.mp3"
+  },
+  {
+    "title": "I Want You Back",
+    "author": "7. Jackson 5",
+    "duration": "2:53",
+    "path": "music/7. Jackson 5 - I Want You Back.mp3"
+  },
+  {
+    "title": "Around the World (La La La La La)",
+    "author": "A Touch Of Class",
+    "duration": "3:35",
+    "path": "music/A Touch Of Class - Around the World (La La La La La).mp3"
+  },
+  {
+    "title": "Take On Me",
+    "author": "A-ha",
+    "duration": "4:04",
+    "path": "music/A-ha - Take On Me-1.mp3"
+  },
+  {
+    "title": "Take on Me",
+    "author": "a-ha",
+    "duration": "3:45",
+    "path": "music/a-ha - Take on Me.mp3"
+  },
+  {
+    "title": "Dancing Queen",
+    "author": "ABBA",
+    "duration": "3:50",
+    "path": "music/ABBA - Dancing Queen.mp3"
+  },
+  {
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "author": "ABBA",
+    "duration": "4:52",
+    "path": "music/ABBA - Gimme! Gimme! Gimme! (A Man After Midnight).mp3"
+  },
+  {
+    "title": "Mamma Mia",
+    "author": "ABBA",
+    "duration": "3:33",
+    "path": "music/ABBA - Mamma Mia.mp3"
+  },
+  {
+    "title": "Money, Money, Money",
+    "author": "ABBA",
+    "duration": "3:06",
+    "path": "music/ABBA - Money, Money, Money.mp3"
+  },
+  {
+    "title": "SOS",
+    "author": "ABBA",
+    "duration": "3:22",
+    "path": "music/ABBA - SOS.mp3"
+  },
+  {
+    "title": "Waterloo",
+    "author": "ABBA",
+    "duration": "2:46",
+    "path": "music/ABBA - Waterloo.mp3"
+  },
+  {
+    "title": "Are You Ready",
+    "author": "AC/DC",
+    "duration": "4:17",
+    "path": "music/AC_DC - Are You Ready.mp3"
+  },
+  {
+    "title": "Back In Black",
+    "author": "AC/DC",
+    "duration": "4:13",
+    "path": "music/AC_DC - Back In Black-1.mp3"
+  },
+  {
+    "title": "Back In Black",
+    "author": "AC/DC",
+    "duration": "4:15",
+    "path": "music/AC_DC - Back In Black.mp3"
+  },
+  {
+    "title": "Beating Around the Bush",
+    "author": "AC/DC",
+    "duration": "3:55",
+    "path": "music/AC_DC - Beating Around the Bush.mp3"
+  },
+  {
+    "title": "Big Gun",
+    "author": "AC/DC",
+    "duration": "4:28",
+    "path": "music/AC_DC - Big Gun.mp3"
+  },
+  {
+    "title": "Code Red",
+    "author": "AC/DC",
+    "duration": "3:32",
+    "path": "music/AC_DC - Code Red.mp3"
+  },
+  {
+    "title": "Demon Fire",
+    "author": "AC/DC",
+    "duration": "3:36",
+    "path": "music/AC_DC - Demon Fire-1.mp3"
+  },
+  {
+    "title": "Demon Fire",
+    "author": "AC/DC",
+    "duration": "3:30",
+    "path": "music/AC_DC - Demon Fire.mp3"
+  },
+  {
+    "title": "Dirty Deeds Done Dirt Cheap",
+    "author": "AC/DC",
+    "duration": "3:55",
+    "path": "music/AC_DC - Dirty Deeds Done Dirt Cheap-1.mp3"
+  },
+  {
+    "title": "Dirty Deeds Done Dirt Cheap",
+    "author": "AC/DC",
+    "duration": "3:52",
+    "path": "music/AC_DC - Dirty Deeds Done Dirt Cheap.mp3"
+  },
+  {
+    "title": "Fire Your Guns",
+    "author": "AC/DC",
+    "duration": "2:55",
+    "path": "music/AC_DC - Fire Your Guns.mp3"
+  },
+  {
+    "title": "For Those About to Rock (We Salute You) (Audio)",
+    "author": "AC/DC",
+    "duration": "5:45",
+    "path": "music/AC_DC - For Those About to Rock (We Salute You) (Audio).mp3"
+  },
+  {
+    "title": "Girls Got Rhythm",
+    "author": "AC/DC",
+    "duration": "3:25",
+    "path": "music/AC_DC - Girls Got Rhythm.mp3"
+  },
+  {
+    "title": "Givin the Dog a Bone",
+    "author": "AC/DC",
+    "duration": "3:31",
+    "path": "music/AC_DC - Givin the Dog a Bone.mp3"
+  },
+  {
+    "title": "Got You by the Balls",
+    "author": "AC/DC",
+    "duration": "4:30",
+    "path": "music/AC_DC - Got You by the Balls.mp3"
+  },
+  {
+    "title": "Guns for Hire",
+    "author": "AC/DC",
+    "duration": "3:24",
+    "path": "music/AC_DC - Guns for Hire.mp3"
+  },
+  {
+    "title": "Hard as a Rock",
+    "author": "AC/DC",
+    "duration": "4:29",
+    "path": "music/AC_DC - Hard as a Rock.mp3"
+  },
+  {
+    "title": "Have a Drink on Me",
+    "author": "AC/DC",
+    "duration": "3:58",
+    "path": "music/AC_DC - Have a Drink on Me.mp3"
+  },
+  {
+    "title": "Hells Bells",
+    "author": "AC/DC",
+    "duration": "5:09",
+    "path": "music/AC_DC - Hells Bells.mp3"
+  },
+  {
+    "title": "High Voltage",
+    "author": "AC/DC",
+    "duration": "4:14",
+    "path": "music/AC_DC - High Voltage.mp3"
+  },
+  {
+    "title": "Highway to Hell",
+    "author": "AC/DC",
+    "duration": "3:27",
+    "path": "music/AC_DC - Highway to Hell.mp3"
+  },
+  {
+    "title": "If You Want Blood (You've Got It)",
+    "author": "AC/DC",
+    "duration": "4:39",
+    "path": "music/AC_DC - If You Want Blood (You've Got It).mp3"
+  },
+  {
+    "title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll) (Audio)",
+    "author": "AC/DC",
+    "duration": "5:03",
+    "path": "music/AC_DC - It's a Long Way to the Top (If You Wanna Rock 'N' Roll) (Audio).mp3"
+  },
+  {
+    "title": "Jailbreak",
+    "author": "AC/DC",
+    "duration": "4:41",
+    "path": "music/AC_DC - Jailbreak.mp3"
+  },
+  {
+    "title": "Kick You When You're Down",
+    "author": "AC/DC",
+    "duration": "3:11",
+    "path": "music/AC_DC - Kick You When You're Down.mp3"
+  },
+  {
+    "title": "Let There Be Rock",
+    "author": "AC/DC",
+    "duration": "6:08",
+    "path": "music/AC_DC - Let There Be Rock.mp3"
+  },
+  {
+    "title": "Live Wire",
+    "author": "AC/DC",
+    "duration": "5:48",
+    "path": "music/AC_DC - Live Wire.mp3"
+  },
+  {
+    "title": "Money Shot",
+    "author": "AC/DC",
+    "duration": "3:06",
+    "path": "music/AC_DC - Money Shot.mp3"
+  },
+  {
+    "title": "Moneytalks",
+    "author": "AC/DC",
+    "duration": "3:45",
+    "path": "music/AC_DC - Moneytalks.mp3"
+  },
+  {
+    "title": "Nervous Shakedown",
+    "author": "AC/DC",
+    "duration": "4:33",
+    "path": "music/AC_DC - Nervous Shakedown.mp3"
+  },
+  {
+    "title": "Realize",
+    "author": "AC/DC",
+    "duration": "3:38",
+    "path": "music/AC_DC - Realize-1.mp3"
+  },
+  {
+    "title": "Realize",
+    "author": "AC/DC",
+    "duration": "3:37",
+    "path": "music/AC_DC - Realize.mp3"
+  },
+  {
+    "title": "Rejection",
+    "author": "AC/DC",
+    "duration": "4:08",
+    "path": "music/AC_DC - Rejection.mp3"
+  },
+  {
+    "title": "Rock 'N' Roll Singer",
+    "author": "AC/DC",
+    "duration": "5:03",
+    "path": "music/AC_DC - Rock 'N' Roll Singer.mp3"
+  },
+  {
+    "title": "Rock N Roll Train",
+    "author": "AC/DC",
+    "duration": "4:24",
+    "path": "music/AC_DC - Rock N Roll Train-1.mp3"
+  },
+  {
+    "title": "Rock N Roll Train",
+    "author": "AC/DC",
+    "duration": "4:21",
+    "path": "music/AC_DC - Rock N Roll Train.mp3"
+  },
+  {
+    "title": "Rock or Bust",
+    "author": "AC/DC",
+    "duration": "3:09",
+    "path": "music/AC_DC - Rock or Bust.mp3"
+  },
+  {
+    "title": "Rock the House",
+    "author": "AC/DC",
+    "duration": "2:42",
+    "path": "music/AC_DC - Rock the House.mp3"
+  },
+  {
+    "title": "Shoot To Thrill (Iron Man 2 Version)",
+    "author": "AC/DC",
+    "duration": "5:32",
+    "path": "music/AC_DC - Shoot To Thrill (Iron Man 2 Version).mp3"
+  },
+  {
+    "title": "Shoot to Thrill",
+    "author": "AC/DC",
+    "duration": "5:17",
+    "path": "music/AC_DC - Shoot to Thrill.mp3"
+  },
+  {
+    "title": "Shot Down in Flames",
+    "author": "AC/DC",
+    "duration": "3:22",
+    "path": "music/AC_DC - Shot Down in Flames.mp3"
+  },
+  {
+    "title": "Shot In The Dark",
+    "author": "AC/DC",
+    "duration": "3:15",
+    "path": "music/AC_DC - Shot In The Dark-1.mp3"
+  },
+  {
+    "title": "Shot In The Dark",
+    "author": "AC/DC",
+    "duration": "3:05",
+    "path": "music/AC_DC - Shot In The Dark.mp3"
+  },
+  {
+    "title": "Shot of Love",
+    "author": "AC/DC",
+    "duration": "3:56",
+    "path": "music/AC_DC - Shot of Love.mp3"
+  },
+  {
+    "title": "Sink the Pink",
+    "author": "AC/DC",
+    "duration": "4:15",
+    "path": "music/AC_DC - Sink the Pink.mp3"
+  },
+  {
+    "title": "Soul Stripper",
+    "author": "AC/DC",
+    "duration": "6:25",
+    "path": "music/AC_DC - Soul Stripper.mp3"
+  },
+  {
+    "title": "Stand Up",
+    "author": "AC/DC",
+    "duration": "3:38",
+    "path": "music/AC_DC - Stand Up.mp3"
+  },
+  {
+    "title": "Stiff Upper Lip",
+    "author": "AC/DC",
+    "duration": "3:53",
+    "path": "music/AC_DC - Stiff Upper Lip.mp3"
+  },
+  {
+    "title": "Systems Down",
+    "author": "AC/DC",
+    "duration": "3:14",
+    "path": "music/AC_DC - Systems Down.mp3"
+  },
+  {
+    "title": "T.N.T.",
+    "author": "AC/DC",
+    "duration": "3:34",
+    "path": "music/AC_DC - T.N.T..mp3"
+  },
+  {
+    "title": "Through The Mists Of Time",
+    "author": "AC/DC",
+    "duration": "3:32",
+    "path": "music/AC_DC - Through The Mists Of Time.mp3"
+  },
+  {
+    "title": "Thunderstruck",
+    "author": "AC/DC",
+    "duration": "4:53",
+    "path": "music/AC_DC - Thunderstruck-1.mp3"
+  },
+  {
+    "title": "Thunderstruck",
+    "author": "AC/DC",
+    "duration": "4:52",
+    "path": "music/AC_DC - Thunderstruck.mp3"
+  },
+  {
+    "title": "Touch Too Much",
+    "author": "AC/DC",
+    "duration": "4:26",
+    "path": "music/AC_DC - Touch Too Much.mp3"
+  },
+  {
+    "title": "Walk All Over You",
+    "author": "AC/DC",
+    "duration": "5:10",
+    "path": "music/AC_DC - Walk All Over You.mp3"
+  },
+  {
+    "title": "War Machine",
+    "author": "AC/DC",
+    "duration": "3:09",
+    "path": "music/AC_DC - War Machine-1.mp3"
+  },
+  {
+    "title": "War Machine",
+    "author": "AC/DC",
+    "duration": "3:11",
+    "path": "music/AC_DC - War Machine.mp3"
+  },
+  {
+    "title": "What Do You Do for Money Honey",
+    "author": "AC/DC",
+    "duration": "3:35",
+    "path": "music/AC_DC - What Do You Do for Money Honey.mp3"
+  },
+  {
+    "title": "Who Made Who",
+    "author": "AC/DC",
+    "duration": "3:26",
+    "path": "music/AC_DC - Who Made Who.mp3"
+  },
+  {
+    "title": "Whole Lotta Rosie",
+    "author": "AC/DC",
+    "duration": "5:26",
+    "path": "music/AC_DC - Whole Lotta Rosie.mp3"
+  },
+  {
+    "title": "Wild Reputation",
+    "author": "AC/DC",
+    "duration": "2:56",
+    "path": "music/AC_DC - Wild Reputation.mp3"
+  },
+  {
+    "title": "Witch's Spell",
+    "author": "AC/DC",
+    "duration": "3:41",
+    "path": "music/AC_DC - Witch's Spell.mp3"
+  },
+  {
+    "title": "You Shook Me All Night Long",
+    "author": "AC/DC",
+    "duration": "3:28",
+    "path": "music/AC_DC - You Shook Me All Night Long.mp3"
+  },
+  {
+    "title": "Crazy",
+    "author": "Aerosmith",
+    "duration": "6:13",
+    "path": "music/Aerosmith - Crazy.mp3"
+  },
+  {
+    "title": "Cryin'",
+    "author": "Aerosmith",
+    "duration": "5:30",
+    "path": "music/Aerosmith - Cryin'.mp3"
+  },
+  {
+    "title": "Dream On",
+    "author": "Aerosmith",
+    "duration": "4:27",
+    "path": "music/Aerosmith - Dream On.mp3"
+  },
+  {
+    "title": "Dude (Looks Like A Lady)",
+    "author": "Aerosmith",
+    "duration": "4:22",
+    "path": "music/Aerosmith - Dude (Looks Like A Lady).mp3"
+  },
+  {
+    "title": "Sweet Emotion",
+    "author": "Aerosmith",
+    "duration": "4:34",
+    "path": "music/Aerosmith - Sweet Emotion.mp3"
+  },
+  {
+    "title": "Runnin’ Wild",
+    "author": "Airbourne",
+    "duration": "3:56",
+    "path": "music/Airbourne - Runnin’ Wild.mp3"
+  },
+  {
+    "title": "Poison",
+    "author": "Alice Cooper",
+    "duration": "4:28",
+    "path": "music/Alice Cooper - Poison.mp3"
+  },
+  {
+    "title": "Forever Young",
+    "author": "Alphaville",
+    "duration": "3:42",
+    "path": "music/Alphaville - Forever Young.mp3"
+  },
+  {
+    "title": "Left Hand Free",
+    "author": "alt-J",
+    "duration": "2:53",
+    "path": "music/alt-J - Left Hand Free.mp3"
+  },
+  {
+    "title": "Barbie Girl",
+    "author": "Aqua",
+    "duration": "3:18",
+    "path": "music/Aqua - Barbie Girl-1.mp3"
+  },
+  {
+    "title": "Barbie Girl",
+    "author": "Aqua",
+    "duration": "3:21",
+    "path": "music/Aqua - Barbie Girl.mp3"
+  },
+  {
+    "title": "Do I Wanna Know?",
+    "author": "Arctic Monkeys",
+    "duration": "4:25",
+    "path": "music/Arctic Monkeys - Do I Wanna Know_.mp3"
+  },
+  {
+    "title": "Respect",
+    "author": "Aretha Franklin",
+    "duration": "2:28",
+    "path": "music/Aretha Franklin - Respect.mp3"
+  },
+  {
+    "title": "You're All I Need to Get By / Deadpool & Wolverine Soundtrack",
+    "author": "Aretha Franklin",
+    "duration": "4:25",
+    "path": "music/Aretha Franklin - You're All I Need to Get By _ Deadpool & Wolverine Soundtrack.mp3"
+  },
+  {
+    "title": "Dangerous Woman",
+    "author": "Ariana Grande",
+    "duration": "3:55",
+    "path": "music/Ariana Grande - Dangerous Woman.mp3"
+  },
+  {
+    "title": "I'm an Albatraoz | OFFICIAL VIDEO",
+    "author": "AronChupa",
+    "duration": "2:28",
+    "path": "music/AronChupa - I'm an Albatraoz _ OFFICIAL VIDEO.mp3"
+  },
+  {
+    "title": "Show Me How to Live",
+    "author": "Audioslave",
+    "duration": "4:57",
+    "path": "music/Audioslave - Show Me How to Live.mp3"
+  },
+  {
+    "title": "Hail to the King",
+    "author": "Avenged Sevenfold",
+    "duration": "5:13",
+    "path": "music/Avenged Sevenfold - Hail to the King.mp3"
+  },
+  {
+    "title": "Shepherd of Fire",
+    "author": "Avenged Sevenfold",
+    "duration": "5:24",
+    "path": "music/Avenged Sevenfold - Shepherd of Fire.mp3"
+  },
+  {
+    "title": "Extended Version AMAZING Quality!!!",
+    "author": "Avengers Theme song",
+    "duration": "3:09",
+    "path": "music/Avengers Theme song - Extended Version AMAZING Quality!!!.mp3"
+  },
+  {
+    "title": "Levels",
+    "author": "Avicii",
+    "duration": "3:18",
+    "path": "music/Avicii - Levels.mp3"
+  },
+  {
+    "title": "Take Me Away (Lyric Video)",
+    "author": "Ayron Jones",
+    "duration": "4:12",
+    "path": "music/Ayron Jones - Take Me Away (Lyric Video).mp3"
+  },
+  {
+    "title": "CLIK CLAK",
+    "author": "BABYMONSTER",
+    "duration": "2:49",
+    "path": "music/BABYMONSTER - CLIK CLAK.mp3"
+  },
+  {
+    "title": "DRIP",
+    "author": "BABYMONSTER",
+    "duration": "3:00",
+    "path": "music/BABYMONSTER - DRIP.mp3"
+  },
+  {
+    "title": "FOREVER",
+    "author": "BABYMONSTER",
+    "duration": "3:32",
+    "path": "music/BABYMONSTER - FOREVER.mp3"
+  },
+  {
+    "title": "SHEESH",
+    "author": "BABYMONSTER",
+    "duration": "2:50",
+    "path": "music/BABYMONSTER - SHEESH.mp3"
+  },
+  {
+    "title": "You Ain't Seen Nothing Yet",
+    "author": "Bachman-Turner Overdrive",
+    "duration": "3:54",
+    "path": "music/Bachman-Turner Overdrive - You Ain't Seen Nothing Yet.mp3"
+  },
+  {
+    "title": "Zombie",
+    "author": "Bad Wolves",
+    "duration": "4:35",
+    "path": "music/Bad Wolves - Zombie.mp3"
+  },
+  {
+    "title": "No Sleep Till Brooklyn | Guardians of the Galaxy 3 Soundtrack",
+    "author": "Beastie Boys",
+    "duration": "4:45",
+    "path": "music/Beastie Boys - No Sleep Till Brooklyn _ Guardians of the Galaxy 3 Soundtrack.mp3"
+  },
+  {
+    "title": "No Sleep Till Brooklyn",
+    "author": "Beastie Boys",
+    "duration": "4:41",
+    "path": "music/Beastie Boys - No Sleep Till Brooklyn.mp3"
+  },
+  {
+    "title": "How Deep Is Your Love",
+    "author": "Bee Gees",
+    "duration": "4:03",
+    "path": "music/Bee Gees - How Deep Is Your Love.mp3"
+  },
+  {
+    "title": "Night Fever (Serban Mix)",
+    "author": "Bee Gees",
+    "duration": "3:33",
+    "path": "music/Bee Gees - Night Fever (Serban Mix).mp3"
+  },
+  {
+    "title": "Stayin' Alive",
+    "author": "Bee Gees",
+    "duration": "4:09",
+    "path": "music/Bee Gees - Stayin' Alive.mp3"
+  },
+  {
+    "title": "Sing Sing Sing",
+    "author": "Benny Goodman",
+    "duration": "5:02",
+    "path": "music/Benny Goodman - Sing Sing Sing.mp3"
+  },
+  {
+    "title": "Take My Breath Away",
+    "author": "Berlin",
+    "duration": "4:11",
+    "path": "music/Berlin - Take My Breath Away.mp3"
+  },
+  {
+    "title": "Rebel Yell",
+    "author": "Billy Idol",
+    "duration": "4:52",
+    "path": "music/Billy Idol - Rebel Yell.mp3"
+  },
+  {
+    "title": "We Didn't Start the Fire",
+    "author": "Billy Joel",
+    "duration": "4:08",
+    "path": "music/Billy Joel - We Didn't Start the Fire.mp3"
+  },
+  {
+    "title": "Iron Man",
+    "author": "Black Sabbath",
+    "duration": "5:53",
+    "path": "music/Black Sabbath - Iron Man-1.mp3"
+  },
+  {
+    "title": "Iron Man",
+    "author": "Black Sabbath",
+    "duration": "5:53",
+    "path": "music/Black Sabbath - Iron Man.mp3"
+  },
+  {
+    "title": "Paranoid (2009 Remaster)",
+    "author": "Black Sabbath",
+    "duration": "2:47",
+    "path": "music/Black Sabbath - Paranoid (2009 Remaster).mp3"
+  },
+  {
+    "title": "\"Paranoid\"",
+    "author": "BLACK SABBATH",
+    "duration": "2:51",
+    "path": "music/BLACK SABBATH - Paranoid.mp3"
+  },
+  {
+    "title": "\"Sabbath Bloody Sabbath\"",
+    "author": "BLACK SABBATH",
+    "duration": "3:24",
+    "path": "music/BLACK SABBATH - Sabbath Bloody Sabbath.mp3"
+  },
+  {
+    "title": "The Wizard (2009 Remaster)",
+    "author": "Black Sabbath",
+    "duration": "4:22",
+    "path": "music/Black Sabbath - The Wizard (2009 Remaster).mp3"
+  },
+  {
+    "title": "War Pigs / Luke's Wall",
+    "author": "Black Sabbath",
+    "duration": "7:53",
+    "path": "music/Black Sabbath - War Pigs _ Luke's Wall.mp3"
+  },
+  {
+    "title": "All The Small Things",
+    "author": "blink-182",
+    "duration": "2:50",
+    "path": "music/blink-182 - All The Small Things.mp3"
+  },
+  {
+    "title": "Call Me",
+    "author": "Blondie",
+    "duration": "3:32",
+    "path": "music/Blondie - Call Me.mp3"
+  },
+  {
+    "title": "Heart Of Glass",
+    "author": "Blondie",
+    "duration": "3:42",
+    "path": "music/Blondie - Heart Of Glass.mp3"
+  },
+  {
+    "title": "Hooked On A Feeling",
+    "author": "Blue Swede & Björn Skifs",
+    "duration": "2:52",
+    "path": "music/Blue Swede & Björn Skifs - Hooked On A Feeling.mp3"
+  },
+  {
+    "title": "Song 2",
+    "author": "Blur",
+    "duration": "2:02",
+    "path": "music/Blur - Song 2.mp3"
+  },
+  {
+    "title": "Old Time Rock & Roll",
+    "author": "Bob Seger & The Silver Bullet Band",
+    "duration": "3:14",
+    "path": "music/Bob Seger & The Silver Bullet Band - Old Time Rock & Roll.mp3"
+  },
+  {
+    "title": "Rock This Party (Everybody Dance Now) (feat. DollarMan, Big Ali & Makedah)",
+    "author": "Bob Sinclar & Cutee B.",
+    "duration": "4:05",
+    "path": "music/Bob Sinclar & Cutee B. - Rock This Party (Everybody Dance Now) (feat. DollarMan, Big Ali & Makedah).mp3"
+  },
+  {
+    "title": "It's My Life",
+    "author": "Bon Jovi",
+    "duration": "3:44",
+    "path": "music/Bon Jovi - It's My Life.mp3"
+  },
+  {
+    "title": "Livin' On A Prayer",
+    "author": "Bon Jovi",
+    "duration": "4:08",
+    "path": "music/Bon Jovi - Livin' On A Prayer.mp3"
+  },
+  {
+    "title": "You Give Love A Bad Name",
+    "author": "Bon Jovi",
+    "duration": "3:50",
+    "path": "music/Bon Jovi - You Give Love A Bad Name-1.mp3"
+  },
+  {
+    "title": "You Give Love A Bad Name",
+    "author": "Bon Jovi",
+    "duration": "3:42",
+    "path": "music/Bon Jovi - You Give Love A Bad Name.mp3"
+  },
+  {
+    "title": "Daddy Cool",
+    "author": "Boney M.",
+    "duration": "3:28",
+    "path": "music/Boney M. - Daddy Cool.mp3"
+  },
+  {
+    "title": "Ma Baker (Sopot Festival 1979)",
+    "author": "Boney M.",
+    "duration": "4:38",
+    "path": "music/Boney M. - Ma Baker (Sopot Festival 1979).mp3"
+  },
+  {
+    "title": "Rasputin",
+    "author": "Boney M.",
+    "duration": "5:51",
+    "path": "music/Boney M. - Rasputin.mp3"
+  },
+  {
+    "title": "Holding Out For A Hero",
+    "author": "Bonnie Tyler",
+    "duration": "4:44",
+    "path": "music/Bonnie Tyler - Holding Out For A Hero-1.mp3"
+  },
+  {
+    "title": "Holding Out For A Hero",
+    "author": "Bonnie Tyler",
+    "duration": "4:40",
+    "path": "music/Bonnie Tyler - Holding Out For A Hero.mp3"
+  },
+  {
+    "title": "More Than a Feeling",
+    "author": "Boston",
+    "duration": "3:27",
+    "path": "music/Boston - More Than a Feeling.mp3"
+  },
+  {
+    "title": "Sam Cooke",
+    "author": "Bring It On Home To Me",
+    "duration": "2:45",
+    "path": "music/Bring It On Home To Me - Sam Cooke.mp3"
+  },
+  {
+    "title": "...Baby One More Time",
+    "author": "Britney Spears",
+    "duration": "3:57",
+    "path": "music/Britney Spears - Baby One More Time.mp3"
+  },
+  {
+    "title": "Gimme More",
+    "author": "Britney Spears",
+    "duration": "4:11",
+    "path": "music/Britney Spears - Gimme More.mp3"
+  },
+  {
+    "title": "Oops!...I Did It Again",
+    "author": "Britney Spears",
+    "duration": "3:31",
+    "path": "music/Britney Spears - Oops!...I Did It Again.mp3"
+  },
+  {
+    "title": "Toxic",
+    "author": "Britney Spears",
+    "duration": "3:18",
+    "path": "music/Britney Spears - Toxic.mp3"
+  },
+  {
+    "title": "Badlands | Guardians of the Galaxy 3 Soundtrack",
+    "author": "Bruce Springsteen",
+    "duration": "4:36",
+    "path": "music/Bruce Springsteen - Badlands _ Guardians of the Galaxy 3 Soundtrack.mp3"
+  },
+  {
+    "title": "Born in the U.S.A.",
+    "author": "Bruce Springsteen",
+    "duration": "4:43",
+    "path": "music/Bruce Springsteen - Born in the U.S.A..mp3"
+  },
+  {
+    "title": "Summer Of '69",
+    "author": "Bryan Adams",
+    "duration": "3:27",
+    "path": "music/Bryan Adams - Summer Of '69.mp3"
+  },
+  {
+    "title": "Ain't No Rest For The Wicked",
+    "author": "Cage The Elephant",
+    "duration": "3:04",
+    "path": "music/Cage The Elephant - Ain't No Rest For The Wicked.mp3"
+  },
+  {
+    "title": "On The Road Again",
+    "author": "Canned Heat",
+    "duration": "4:56",
+    "path": "music/Canned Heat - On The Road Again.mp3"
+  },
+  {
+    "title": "Kung Fu Fighting",
+    "author": "Carl Douglas",
+    "duration": "3:17",
+    "path": "music/Carl Douglas - Kung Fu Fighting.mp3"
+  },
+  {
+    "title": "Call Me Maybe",
+    "author": "Carly Rae Jepsen",
+    "duration": "3:19",
+    "path": "music/Carly Rae Jepsen - Call Me Maybe.mp3"
+  },
+  {
+    "title": "Mister Sandman",
+    "author": "Chet Atkins",
+    "duration": "2:17",
+    "path": "music/Chet Atkins - Mister Sandman.mp3"
+  },
+  {
+    "title": "Stumblin' In",
+    "author": "Chris Norman & Suzi Quatro",
+    "duration": "3:56",
+    "path": "music/Chris Norman & Suzi Quatro - Stumblin' In.mp3"
+  },
+  {
+    "title": "Tubthumping",
+    "author": "Chumbawamba",
+    "duration": "3:33",
+    "path": "music/Chumbawamba - Tubthumping.mp3"
+  },
+  {
+    "title": "Jay & The Americans | TV Spot [Guardians of the Galaxy Volume 2]",
+    "author": "Come A Little Bit Closer",
+    "duration": "2:45",
+    "path": "music/Come A Little Bit Closer - Jay & The Americans _ TV Spot [Guardians of the Galaxy Volume 2].mp3"
+  },
+  {
+    "title": "White Room",
+    "author": "Cream",
+    "duration": "4:58",
+    "path": "music/Cream - White Room.mp3"
+  },
+  {
+    "title": "Cream Crossroads",
+    "author": "Unknown Artist",
+    "duration": "4:16",
+    "path": "music/Cream Crossroads.mp3"
+  },
+  {
+    "title": "One Last Breath",
+    "author": "Creed",
+    "duration": "3:59",
+    "path": "music/Creed - One Last Breath.mp3"
+  },
+  {
+    "title": "Fortunate Son",
+    "author": "Creedence Clearwater Revival",
+    "duration": "2:17",
+    "path": "music/Creedence Clearwater Revival - Fortunate Son.mp3"
+  },
+  {
+    "title": "Have You Ever Seen the Rain",
+    "author": "Creedence Clearwater Revival",
+    "duration": "3:03",
+    "path": "music/Creedence Clearwater Revival - Have You Ever Seen the Rain.mp3"
+  },
+  {
+    "title": "Karma Chameleon",
+    "author": "Culture Club",
+    "duration": "3:58",
+    "path": "music/Culture Club - Karma Chameleon.mp3"
+  },
+  {
+    "title": "(I Just) Died In Your Arms",
+    "author": "Cutting Crew",
+    "duration": "4:31",
+    "path": "music/Cutting Crew - (I Just) Died In Your Arms.mp3"
+  },
+  {
+    "title": "Girls Just Want To Have Fun",
+    "author": "Cyndi Lauper",
+    "duration": "4:26",
+    "path": "music/Cyndi Lauper - Girls Just Want To Have Fun.mp3"
+  },
+  {
+    "title": "You Make My Dreams (Come True)",
+    "author": "Daryl Hall & John Oates",
+    "duration": "3:10",
+    "path": "music/Daryl Hall & John Oates - You Make My Dreams (Come True).mp3"
+  },
+  {
+    "title": "Space Oddity",
+    "author": "David Bowie",
+    "duration": "5:05",
+    "path": "music/David Bowie - Space Oddity.mp3"
+  },
+  {
+    "title": "I'm a Ramblin' Man",
+    "author": "Deadpool & Wolverine Soundtrack | Waylon Jennings",
+    "duration": "3:13",
+    "path": "music/Deadpool & Wolverine Soundtrack _ Waylon Jennings - I'm a Ramblin' Man.mp3"
+  },
+  {
+    "title": "Highway Star",
+    "author": "Deep Purple",
+    "duration": "6:06",
+    "path": "music/Deep Purple - Highway Star.mp3"
+  },
+  {
+    "title": "Smoke on the Water",
+    "author": "Deep Purple",
+    "duration": "5:51",
+    "path": "music/Deep Purple - Smoke on the Water.mp3"
+  },
+  {
+    "title": "Pour Some Sugar On Me",
+    "author": "Def Leppard",
+    "duration": "4:27",
+    "path": "music/Def Leppard - Pour Some Sugar On Me.mp3"
+  },
+  {
+    "title": "Pour Some Sugar",
+    "author": "Def Leppard",
+    "duration": "4:55",
+    "path": "music/Def Leppard - Pour Some Sugar.mp3"
+  },
+  {
+    "title": "Personal Jesus",
+    "author": "Depeche Mode",
+    "duration": "3:46",
+    "path": "music/Depeche Mode - Personal Jesus.mp3"
+  },
+  {
+    "title": "Layla",
+    "author": "Derek & The Dominos",
+    "duration": "7:03",
+    "path": "music/Derek & The Dominos - Layla.mp3"
+  },
+  {
+    "title": "Survivor",
+    "author": "Destiny's Child",
+    "duration": "4:14",
+    "path": "music/Destiny's Child - Survivor.mp3"
+  },
+  {
+    "title": "Come On Eileen (1982 Version)",
+    "author": "Dexys Midnight Runners",
+    "duration": "3:47",
+    "path": "music/Dexys Midnight Runners - Come On Eileen (1982 Version).mp3"
+  },
+  {
+    "title": "Rainbow In The Dark (Official Music Video) [HD]",
+    "author": "Dio",
+    "duration": "4:11",
+    "path": "music/Dio - Rainbow In The Dark (Official Music Video) [HD].mp3"
+  },
+  {
+    "title": "Rainbow In The Dark",
+    "author": "Dio",
+    "duration": "4:14",
+    "path": "music/Dio - Rainbow In The Dark.mp3"
+  },
+  {
+    "title": "Walk Of Life",
+    "author": "Dire Straits",
+    "duration": "3:56",
+    "path": "music/Dire Straits - Walk Of Life.mp3"
+  },
+  {
+    "title": "Down With The Sickness (Official Music Video) [HD UPGRADE]",
+    "author": "Disturbed",
+    "duration": "3:37",
+    "path": "music/Disturbed - Down With The Sickness (Official Music Video) [HD UPGRADE].mp3"
+  },
+  {
+    "title": "Turn Down for What",
+    "author": "DJ Snake & Lil Jon",
+    "duration": "3:33",
+    "path": "music/DJ Snake & Lil Jon - Turn Down for What.mp3"
+  },
+  {
+    "title": "Hot Stuff (12\" Version)",
+    "author": "Donna Summer",
+    "duration": "6:47",
+    "path": "music/Donna Summer - Hot Stuff (12 Version).mp3"
+  },
+  {
+    "title": "Bodies",
+    "author": "Drowning Pool",
+    "duration": "3:22",
+    "path": "music/Drowning Pool - Bodies.mp3"
+  },
+  {
+    "title": "Dance The Night (From Barbie The Album)",
+    "author": "Dua Lipa",
+    "duration": "2:56",
+    "path": "music/Dua Lipa - Dance The Night (From Barbie The Album).mp3"
+  },
+  {
+    "title": "Houdini",
+    "author": "Dua Lipa",
+    "duration": "3:05",
+    "path": "music/Dua Lipa - Houdini.mp3"
+  },
+  {
+    "title": "Levitating",
+    "author": "Dua Lipa",
+    "duration": "3:23",
+    "path": "music/Dua Lipa - Levitating.mp3"
+  },
+  {
+    "title": "Face Off",
+    "author": "Dwayne Johnson, Tech N9ne, King Iso & Joey Cool",
+    "duration": "4:22",
+    "path": "music/Dwayne Johnson, Tech N9ne, King Iso & Joey Cool - Face Off.mp3"
+  },
+  {
+    "title": "Nuit de folie (UK Single Remix)",
+    "author": "Début de Soirée",
+    "duration": "4:03",
+    "path": "music/Début de Soirée - Nuit de folie (UK Single Remix).mp3"
+  },
+  {
+    "title": "Hotel California (Live 1977) (Official Video) [HD]",
+    "author": "Eagles",
+    "duration": "6:44",
+    "path": "music/Eagles - Hotel California (Live 1977) (Official Video) [HD].mp3"
+  },
+  {
+    "title": "Take It Easy",
+    "author": "Eagles",
+    "duration": "3:31",
+    "path": "music/Eagles - Take It Easy.mp3"
+  },
+  {
+    "title": "Let's Groove",
+    "author": "Earth, Wind & Fire",
+    "duration": "3:55",
+    "path": "music/Earth, Wind & Fire - Let's Groove.mp3"
+  },
+  {
+    "title": "Summertime Blues",
+    "author": "Eddie Cochran",
+    "duration": "2:03",
+    "path": "music/Eddie Cochran - Summertime Blues.mp3"
+  },
+  {
+    "title": "Blue (Da Da Dee)",
+    "author": "Eiffel 65",
+    "duration": "3:39",
+    "path": "music/Eiffel 65 - Blue (Da Da Dee).mp3"
+  },
+  {
+    "title": "Don't Go Breaking My Heart",
+    "author": "Elton John & Kiki Dee",
+    "duration": "4:35",
+    "path": "music/Elton John & Kiki Dee - Don't Go Breaking My Heart.mp3"
+  },
+  {
+    "title": "I'm Still Standing",
+    "author": "Elton John",
+    "duration": "3:03",
+    "path": "music/Elton John - I'm Still Standing.mp3"
+  },
+  {
+    "title": "A Little Less Conversation (JXL Radio Edit Remix)",
+    "author": "Elvis Presley & JXL",
+    "duration": "3:32",
+    "path": "music/Elvis Presley & JXL - A Little Less Conversation (JXL Radio Edit Remix).mp3"
+  },
+  {
+    "title": "Can't Help Falling In Love",
+    "author": "Elvis Presley",
+    "duration": "3:02",
+    "path": "music/Elvis Presley - Can't Help Falling In Love.mp3"
+  },
+  {
+    "title": "Bad Love",
+    "author": "Eric Clapton",
+    "duration": "5:08",
+    "path": "music/Eric Clapton - Bad Love.mp3"
+  },
+  {
+    "title": "Change the World",
+    "author": "Eric Clapton",
+    "duration": "3:54",
+    "path": "music/Eric Clapton - Change the World.mp3"
+  },
+  {
+    "title": "Cocaine",
+    "author": "Eric Clapton",
+    "duration": "3:38",
+    "path": "music/Eric Clapton - Cocaine.mp3"
+  },
+  {
+    "title": "Lay Down Sally",
+    "author": "Eric Clapton",
+    "duration": "3:56",
+    "path": "music/Eric Clapton - Lay Down Sally.mp3"
+  },
+  {
+    "title": "Layla (Acoustic Live)",
+    "author": "Eric Clapton",
+    "duration": "4:49",
+    "path": "music/Eric Clapton - Layla (Acoustic Live).mp3"
+  },
+  {
+    "title": "Pretending",
+    "author": "Eric Clapton",
+    "duration": "4:15",
+    "path": "music/Eric Clapton - Pretending.mp3"
+  },
+  {
+    "title": "Wonderful Tonight",
+    "author": "Eric Clapton",
+    "duration": "3:45",
+    "path": "music/Eric Clapton - Wonderful Tonight.mp3"
+  },
+  {
+    "title": "Sweet Dreams (Are Made of This)",
+    "author": "Eurythmics",
+    "duration": "3:37",
+    "path": "music/Eurythmics - Sweet Dreams (Are Made of This).mp3"
+  },
+  {
+    "title": "Sweet Dreams (Are Made Of This)",
+    "author": "Eurythmics, Annie Lennox & Dave Stewart",
+    "duration": "3:34",
+    "path": "music/Eurythmics, Annie Lennox & Dave Stewart - Sweet Dreams (Are Made Of This).mp3"
+  },
+  {
+    "title": "We Care A Lot | Guardians of the Galaxy 3 Soundtrack",
+    "author": "Faith No More",
+    "duration": "4:38",
+    "path": "music/Faith No More - We Care A Lot _ Guardians of the Galaxy 3 Soundtrack.mp3"
+  },
+  {
+    "title": "Centuries",
+    "author": "Fall Out Boy",
+    "duration": "4:31",
+    "path": "music/Fall Out Boy - Centuries.mp3"
+  },
+  {
+    "title": "My Songs Know What You Did In The Dark (Light Em Up)",
+    "author": "Fall Out Boy",
+    "duration": "3:06",
+    "path": "music/Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up).mp3"
+  },
+  {
+    "title": "ZOMBIFIED",
+    "author": "Falling In Reverse",
+    "duration": "3:58",
+    "path": "music/Falling In Reverse - ZOMBIFIED.mp3"
+  },
+  {
+    "title": "Worth It (Official Video) (feat. Kid Ink)",
+    "author": "Fifth Harmony",
+    "duration": "3:44",
+    "path": "music/Fifth Harmony - Worth It (Official Video) (feat. Kid Ink).mp3"
+  },
+  {
+    "title": "HandClap",
+    "author": "Fitz and The Tantrums",
+    "duration": "3:13",
+    "path": "music/Fitz and The Tantrums - HandClap.mp3"
+  },
+  {
+    "title": "Blue on Black",
+    "author": "Five Finger Death Punch",
+    "duration": "5:25",
+    "path": "music/Five Finger Death Punch - Blue on Black-1.mp3"
+  },
+  {
+    "title": "Blue On Black",
+    "author": "Five Finger Death Punch",
+    "duration": "5:14",
+    "path": "music/Five Finger Death Punch - Blue On Black.mp3"
+  },
+  {
+    "title": "Jekyll and Hyde",
+    "author": "Five Finger Death Punch",
+    "duration": "3:26",
+    "path": "music/Five Finger Death Punch - Jekyll and Hyde.mp3"
+  },
+  {
+    "title": "Wash It All Away",
+    "author": "Five Finger Death Punch",
+    "duration": "3:58",
+    "path": "music/Five Finger Death Punch - Wash It All Away.mp3"
+  },
+  {
+    "title": "Welcome To The Circus",
+    "author": "Five Finger Death Punch",
+    "duration": "5:15",
+    "path": "music/Five Finger Death Punch - Welcome To The Circus.mp3"
+  },
+  {
+    "title": "Right Round (feat. Kesha)",
+    "author": "Flo Rida",
+    "duration": "3:24",
+    "path": "music/Flo Rida - Right Round (feat. Kesha).mp3"
+  },
+  {
+    "title": "Dog Days Are Over | Guardians of the Galaxy 3 Soundtrack",
+    "author": "Florence + The Machine",
+    "duration": "4:18",
+    "path": "music/Florence + The Machine - Dog Days Are Over _ Guardians of the Galaxy 3 Soundtrack.mp3"
+  },
+  {
+    "title": "The Pretender",
+    "author": "Foo Fighters",
+    "duration": "4:30",
+    "path": "music/Foo Fighters - The Pretender.mp3"
+  },
+  {
+    "title": "The Sweet [Guardians of the Galaxy: Vol. 2] Official Soundtrack",
+    "author": "Fox On The Run",
+    "duration": "3:24",
+    "path": "music/Fox On The Run - The Sweet [Guardians of the Galaxy_ Vol. 2] Official Soundtrack.mp3"
+  },
+  {
+    "title": "Take Me Out",
+    "author": "Franz Ferdinand",
+    "duration": "4:00",
+    "path": "music/Franz Ferdinand - Take Me Out.mp3"
+  },
+  {
+    "title": "All Right Now (Single Version)",
+    "author": "Free",
+    "duration": "4:14",
+    "path": "music/Free - All Right Now (Single Version).mp3"
+  },
+  {
+    "title": "Rock And Roll Part II",
+    "author": "Gary Glitter",
+    "duration": "3:03",
+    "path": "music/Gary Glitter - Rock And Roll Part II.mp3"
+  },
+  {
+    "title": "Colonel Hathi's March (The Elephant Song) (From \"The Jungle B... (feat. Disney Studio Chorus)",
+    "author": "George Bruns & J. Pat O'Malley",
+    "duration": "1:29",
+    "path": "music/George Bruns & J. Pat O'Malley - Colonel Hathi's March (The Elephant Song) (From The Jungle B... (feat. Disney Studio Chorus).mp3"
+  },
+  {
+    "title": "Got My Mind Set on You",
+    "author": "George Harrison",
+    "duration": "3:51",
+    "path": "music/George Harrison - Got My Mind Set on You.mp3"
+  },
+  {
+    "title": "Careless Whisper",
+    "author": "George Michael",
+    "duration": "5:00",
+    "path": "music/George Michael - Careless Whisper.mp3"
+  },
+  {
+    "title": "Bad To The Bone",
+    "author": "George Thorogood & The Destroyers",
+    "duration": "5:08",
+    "path": "music/George Thorogood & The Destroyers - Bad To The Bone.mp3"
+  },
+  {
+    "title": "Bulletproof",
+    "author": "Godsmack",
+    "duration": "2:57",
+    "path": "music/Godsmack - Bulletproof.mp3"
+  },
+  {
+    "title": "I Stand Alone",
+    "author": "Godsmack",
+    "duration": "4:41",
+    "path": "music/Godsmack - I Stand Alone.mp3"
+  },
+  {
+    "title": "We're An American Band (Remastered 2002)",
+    "author": "Grand Funk Railroad",
+    "duration": "3:27",
+    "path": "music/Grand Funk Railroad - We're An American Band (Remastered 2002).mp3"
+  },
+  {
+    "title": "21 Guns",
+    "author": "Green Day",
+    "duration": "5:21",
+    "path": "music/Green Day - 21 Guns.mp3"
+  },
+  {
+    "title": "American Idiot",
+    "author": "Green Day",
+    "duration": "2:54",
+    "path": "music/Green Day - American Idiot.mp3"
+  },
+  {
+    "title": "Basket Case",
+    "author": "Green Day",
+    "duration": "3:01",
+    "path": "music/Green Day - Basket Case-1.mp3"
+  },
+  {
+    "title": "Basket Case",
+    "author": "Green Day",
+    "duration": "3:14",
+    "path": "music/Green Day - Basket Case.mp3"
+  },
+  {
+    "title": "Bobby Sox",
+    "author": "Green Day",
+    "duration": "3:44",
+    "path": "music/Green Day - Bobby Sox.mp3"
+  },
+  {
+    "title": "Boulevard of Broken Dreams",
+    "author": "Green Day",
+    "duration": "4:47",
+    "path": "music/Green Day - Boulevard of Broken Dreams.mp3"
+  },
+  {
+    "title": "Brain Stew",
+    "author": "Green Day",
+    "duration": "3:13",
+    "path": "music/Green Day - Brain Stew.mp3"
+  },
+  {
+    "title": "Give Me Novacaine / She's a Rebel",
+    "author": "Green Day",
+    "duration": "5:26",
+    "path": "music/Green Day - Give Me Novacaine _ She's a Rebel.mp3"
+  },
+  {
+    "title": "Good Riddance (Time of Your Life)",
+    "author": "Green Day",
+    "duration": "2:31",
+    "path": "music/Green Day - Good Riddance (Time of Your Life).mp3"
+  },
+  {
+    "title": "Holiday / Boulevard of Broken Dreams",
+    "author": "Green Day",
+    "duration": "8:13",
+    "path": "music/Green Day - Holiday _ Boulevard of Broken Dreams.mp3"
+  },
+  {
+    "title": "Homecoming",
+    "author": "Green Day",
+    "duration": "9:18",
+    "path": "music/Green Day - Homecoming.mp3"
+  },
+  {
+    "title": "Jesus of Suburbia",
+    "author": "Green Day",
+    "duration": "9:08",
+    "path": "music/Green Day - Jesus of Suburbia.mp3"
+  },
+  {
+    "title": "Last Night on Earth",
+    "author": "Green Day",
+    "duration": "3:56",
+    "path": "music/Green Day - Last Night on Earth.mp3"
+  },
+  {
+    "title": "Welcome to Paradise",
+    "author": "Green Day",
+    "duration": "3:44",
+    "path": "music/Green Day - Welcome to Paradise.mp3"
+  },
+  {
+    "title": "When I Come Around",
+    "author": "Green Day",
+    "duration": "2:59",
+    "path": "music/Green Day - When I Come Around.mp3"
+  },
+  {
+    "title": "Highway Tune",
+    "author": "Greta Van Fleet",
+    "duration": "3:01",
+    "path": "music/Greta Van Fleet - Highway Tune.mp3"
+  },
+  {
+    "title": "San Francisco)",
+    "author": "Guardians of the Galaxy 3 Soundtrack (The Mowgli's",
+    "duration": "3:17",
+    "path": "music/Guardians of the Galaxy 3 Soundtrack (The Mowgli's - San Francisco).mp3"
+  },
+  {
+    "title": "Hard Skool",
+    "author": "Guns N' Roses",
+    "duration": "3:41",
+    "path": "music/Guns N' Roses - Hard Skool.mp3"
+  },
+  {
+    "title": "Knockin' On Heaven's Door",
+    "author": "Guns N' Roses",
+    "duration": "5:36",
+    "path": "music/Guns N' Roses - Knockin' On Heaven's Door.mp3"
+  },
+  {
+    "title": "My Michelle",
+    "author": "Guns N' Roses",
+    "duration": "3:40",
+    "path": "music/Guns N' Roses - My Michelle.mp3"
+  },
+  {
+    "title": "Nightrain",
+    "author": "Guns N' Roses",
+    "duration": "4:28",
+    "path": "music/Guns N' Roses - Nightrain.mp3"
+  },
+  {
+    "title": "Paradise City",
+    "author": "Guns N' Roses",
+    "duration": "6:48",
+    "path": "music/Guns N' Roses - Paradise City.mp3"
+  },
+  {
+    "title": "Perhaps",
+    "author": "Guns N' Roses",
+    "duration": "3:48",
+    "path": "music/Guns N' Roses - Perhaps.mp3"
+  },
+  {
+    "title": "Rocket Queen",
+    "author": "Guns N' Roses",
+    "duration": "6:13",
+    "path": "music/Guns N' Roses - Rocket Queen.mp3"
+  },
+  {
+    "title": "Sweet Child O' Mine",
+    "author": "Guns N' Roses",
+    "duration": "5:56",
+    "path": "music/Guns N' Roses - Sweet Child O' Mine.mp3"
+  },
+  {
+    "title": "The Garden",
+    "author": "Guns N' Roses",
+    "duration": "5:19",
+    "path": "music/Guns N' Roses - The Garden.mp3"
+  },
+  {
+    "title": "What Is Love (7\" mix)",
+    "author": "Haddaway",
+    "duration": "4:00",
+    "path": "music/Haddaway - What Is Love (7 mix).mp3"
+  },
+  {
+    "title": "Freak Like Me",
+    "author": "Halestorm",
+    "duration": "3:47",
+    "path": "music/Halestorm - Freak Like Me.mp3"
+  },
+  {
+    "title": "I Like It Heavy",
+    "author": "Halestorm",
+    "duration": "4:54",
+    "path": "music/Halestorm - I Like It Heavy.mp3"
+  },
+  {
+    "title": "Mz. Hyde",
+    "author": "Halestorm",
+    "duration": "3:24",
+    "path": "music/Halestorm - Mz. Hyde.mp3"
+  },
+  {
+    "title": "Wannabe",
+    "author": "Halestorm",
+    "duration": "3:37",
+    "path": "music/Halestorm - Wannabe.mp3"
+  },
+  {
+    "title": "happy days  theme song  original complete",
+    "author": "Unknown Artist",
+    "duration": "2:16",
+    "path": "music/happy days  theme song  original complete.mp3"
+  },
+  {
+    "title": "\"Barracuda\" (1977)",
+    "author": "Heart",
+    "duration": "4:24",
+    "path": "music/Heart - Barracuda (1977).mp3"
+  },
+  {
+    "title": "Crazy on You | Guardians of the Galaxy 3 Soundtrack",
+    "author": "Heart",
+    "duration": "4:41",
+    "path": "music/Heart - Crazy on You _ Guardians of the Galaxy 3 Soundtrack.mp3"
+  },
+  {
+    "title": "Crazy On You",
+    "author": "Heart",
+    "duration": "4:53",
+    "path": "music/Heart - Crazy On You.mp3"
+  },
+  {
+    "title": "The Power Of Love | Deadpool & Wolverine Soundtrack",
+    "author": "Huey Lewis & The News",
+    "duration": "4:20",
+    "path": "music/Huey Lewis & The News - The Power Of Love _ Deadpool & Wolverine Soundtrack.mp3"
+  },
+  {
+    "title": "Joan Jett & the Blackhearts",
+    "author": "\"I Love Rock 'n' Roll\"",
+    "duration": "3:40",
+    "path": "music/I Love Rock 'n' Roll - Joan Jett & the Blackhearts.mp3"
+  },
+  {
+    "title": "The Passenger",
+    "author": "Iggy Pop",
+    "duration": "4:43",
+    "path": "music/Iggy Pop - The Passenger-1.mp3"
+  },
+  {
+    "title": "The Passenger",
+    "author": "Iggy Pop",
+    "duration": "4:44",
+    "path": "music/Iggy Pop - The Passenger.mp3"
+  },
+  {
+    "title": "L'aventurier (Clip officiel)",
+    "author": "Indochine",
+    "duration": "3:52",
+    "path": "music/Indochine - L'aventurier (Clip officiel).mp3"
+  },
+  {
+    "title": "Flashdance... What a Feeling ('95 version)",
+    "author": "Irene Cara",
+    "duration": "3:19",
+    "path": "music/Irene Cara - Flashdance... What a Feeling ('95 version).mp3"
+  },
+  {
+    "title": "2 Minutes to Midnight",
+    "author": "Iron Maiden",
+    "duration": "6:03",
+    "path": "music/Iron Maiden - 2 Minutes to Midnight.mp3"
+  },
+  {
+    "title": "Fear of the Dark",
+    "author": "Iron Maiden",
+    "duration": "7:18",
+    "path": "music/Iron Maiden - Fear of the Dark.mp3"
+  },
+  {
+    "title": "Run to the Hills",
+    "author": "Iron Maiden",
+    "duration": "3:51",
+    "path": "music/Iron Maiden - Run to the Hills.mp3"
+  },
+  {
+    "title": "Transylvania",
+    "author": "Iron Maiden",
+    "duration": "4:04",
+    "path": "music/Iron Maiden - Transylvania.mp3"
+  },
+  {
+    "title": "Il suffira d'un signe (Clip officiel)",
+    "author": "Jean-Jacques Goldman",
+    "duration": "4:15",
+    "path": "music/Jean-Jacques Goldman - Il suffira d'un signe (Clip officiel).mp3"
+  },
+  {
+    "title": "Quand la musique est bonne (Clip officiel)",
+    "author": "Jean-Jacques Goldman",
+    "duration": "3:37",
+    "path": "music/Jean-Jacques Goldman - Quand la musique est bonne (Clip officiel).mp3"
+  },
+  {
+    "title": "Macumba (Version 1984 45T promo)",
+    "author": "Jean-Pierre Mader",
+    "duration": "3:38",
+    "path": "music/Jean-Pierre Mader - Macumba (Version 1984 45T promo).mp3"
+  },
+  {
+    "title": "Great Balls Of Fire",
+    "author": "Jerry Lee Lewis",
+    "duration": "2:33",
+    "path": "music/Jerry Lee Lewis - Great Balls Of Fire.mp3"
+  },
+  {
+    "title": "Bang Bang",
+    "author": "Jessie J",
+    "duration": "4:22",
+    "path": "music/Jessie J - Bang Bang.mp3"
+  },
+  {
+    "title": "Are You Gonna Be My Girl",
+    "author": "Jet",
+    "duration": "3:34",
+    "path": "music/Jet - Are You Gonna Be My Girl.mp3"
+  },
+  {
+    "title": "(I'm Gonna) Run Away",
+    "author": "Joan Jett & the Blackhearts",
+    "duration": "2:28",
+    "path": "music/Joan Jett & the Blackhearts - (I'm Gonna) Run Away.mp3"
+  },
+  {
+    "title": "I Hate Myself for Loving You",
+    "author": "Joan Jett & the Blackhearts",
+    "duration": "4:17",
+    "path": "music/Joan Jett & the Blackhearts - I Hate Myself for Loving You-1.mp3"
+  },
+  {
+    "title": "I Hate Myself for Loving You",
+    "author": "Joan Jett & the Blackhearts",
+    "duration": "4:06",
+    "path": "music/Joan Jett & the Blackhearts - I Hate Myself for Loving You.mp3"
+  },
+  {
+    "title": "I Love Rock 'N Roll",
+    "author": "Joan Jett & the Blackhearts",
+    "duration": "2:55",
+    "path": "music/Joan Jett & the Blackhearts - I Love Rock 'N Roll.mp3"
+  },
+  {
+    "title": "If You're Blue",
+    "author": "Joan Jett & the Blackhearts",
+    "duration": "3:15",
+    "path": "music/Joan Jett & the Blackhearts - If You're Blue.mp3"
+  },
+  {
+    "title": "Light of Day",
+    "author": "Joan Jett & the Blackhearts",
+    "duration": "3:31",
+    "path": "music/Joan Jett & the Blackhearts - Light of Day.mp3"
+  },
+  {
+    "title": "Louie Louie",
+    "author": "Joan Jett & the Blackhearts",
+    "duration": "2:57",
+    "path": "music/Joan Jett & the Blackhearts - Louie Louie.mp3"
+  },
+  {
+    "title": "Nag",
+    "author": "Joan Jett & the Blackhearts",
+    "duration": "2:46",
+    "path": "music/Joan Jett & the Blackhearts - Nag.mp3"
+  },
+  {
+    "title": "Victim of Circumstance",
+    "author": "Joan Jett & the Blackhearts",
+    "duration": "2:54",
+    "path": "music/Joan Jett & the Blackhearts - Victim of Circumstance.mp3"
+  },
+  {
+    "title": "Bad Reputation",
+    "author": "Joan Jett",
+    "duration": "2:49",
+    "path": "music/Joan Jett - Bad Reputation.mp3"
+  },
+  {
+    "title": "Do You Wanna Touch Me (Oh Yeah)",
+    "author": "Joan Jett",
+    "duration": "3:46",
+    "path": "music/Joan Jett - Do You Wanna Touch Me (Oh Yeah).mp3"
+  },
+  {
+    "title": "You Don't Own Me",
+    "author": "Joan Jett",
+    "duration": "3:27",
+    "path": "music/Joan Jett - You Don't Own Me.mp3"
+  },
+  {
+    "title": "Take Me Home, Country Roads",
+    "author": "John Denver",
+    "duration": "3:10",
+    "path": "music/John Denver - Take Me Home, Country Roads.mp3"
+  },
+  {
+    "title": "Folsom Prison Blues",
+    "author": "Johnny Cash",
+    "duration": "2:42",
+    "path": "music/Johnny Cash - Folsom Prison Blues.mp3"
+  },
+  {
+    "title": "Any Way You Want It",
+    "author": "Journey",
+    "duration": "4:09",
+    "path": "music/Journey - Any Way You Want It.mp3"
+  },
+  {
+    "title": "Don't Stop Believin' (Visualizer)",
+    "author": "Journey",
+    "duration": "4:09",
+    "path": "music/Journey - Don't Stop Believin' (Visualizer).mp3"
+  },
+  {
+    "title": "Breaking the Law",
+    "author": "Judas Priest",
+    "duration": "2:37",
+    "path": "music/Judas Priest - Breaking the Law-1.mp3"
+  },
+  {
+    "title": "Breaking the Law",
+    "author": "Judas Priest",
+    "duration": "2:33",
+    "path": "music/Judas Priest - Breaking the Law.mp3"
+  },
+  {
+    "title": "Carry on Wayward Son",
+    "author": "Kansas",
+    "duration": "5:23",
+    "path": "music/Kansas - Carry on Wayward Son.mp3"
+  },
+  {
+    "title": "Walking On Sunshine",
+    "author": "Katrina & The Waves",
+    "duration": "3:48",
+    "path": "music/Katrina & The Waves - Walking On Sunshine.mp3"
+  },
+  {
+    "title": "Stronger (What Doesn't Kill You)",
+    "author": "Kelly Clarkson",
+    "duration": "3:41",
+    "path": "music/Kelly Clarkson - Stronger (What Doesn't Kill You).mp3"
+  },
+  {
+    "title": "Danger Zone",
+    "author": "Kenny Loggins",
+    "duration": "3:45",
+    "path": "music/Kenny Loggins - Danger Zone.mp3"
+  },
+  {
+    "title": "Footloose",
+    "author": "Kenny Loggins",
+    "duration": "2:55",
+    "path": "music/Kenny Loggins - Footloose-1.mp3"
+  },
+  {
+    "title": "Footloose",
+    "author": "Kenny Loggins",
+    "duration": "3:40",
+    "path": "music/Kenny Loggins - Footloose.mp3"
+  },
+  {
+    "title": "Bette Davis Eyes",
+    "author": "Kim Carnes",
+    "duration": "3:48",
+    "path": "music/Kim Carnes - Bette Davis Eyes.mp3"
+  },
+  {
+    "title": "Heaven's On Fire",
+    "author": "Kiss",
+    "duration": "3:12",
+    "path": "music/Kiss - Heaven's On Fire.mp3"
+  },
+  {
+    "title": "I Love It Loud",
+    "author": "Kiss",
+    "duration": "4:46",
+    "path": "music/Kiss - I Love It Loud.mp3"
+  },
+  {
+    "title": "I Was Made For Lovin' You",
+    "author": "Kiss",
+    "duration": "4:31",
+    "path": "music/Kiss - I Was Made For Lovin' You-1.mp3"
+  },
+  {
+    "title": "I Was Made For Lovin' You",
+    "author": "Kiss",
+    "duration": "3:58",
+    "path": "music/Kiss - I Was Made For Lovin' You.mp3"
+  },
+  {
+    "title": "Lick It Up",
+    "author": "Kiss",
+    "duration": "3:53",
+    "path": "music/Kiss - Lick It Up.mp3"
+  },
+  {
+    "title": "Rock And Roll All Nite (Live From Detroit, MI/1975)",
+    "author": "Kiss",
+    "duration": "4:07",
+    "path": "music/Kiss - Rock And Roll All Nite (Live From Detroit, MI_1975).mp3"
+  },
+  {
+    "title": "Shout It Out Loud",
+    "author": "Kiss",
+    "duration": "2:49",
+    "path": "music/Kiss - Shout It Out Loud.mp3"
+  },
+  {
+    "title": "Reality - Richard Sanderson (HD)",
+    "author": "LA BOUM",
+    "duration": "4:44",
+    "path": "music/LA BOUM - Reality - Richard Sanderson (HD).mp3"
+  },
+  {
+    "title": "Bad Romance",
+    "author": "Lady Gaga",
+    "duration": "5:08",
+    "path": "music/Lady Gaga - Bad Romance.mp3"
+  },
+  {
+    "title": "Just Dance (Official Music Video) (feat. Colby O'Donis)",
+    "author": "Lady Gaga",
+    "duration": "4:06",
+    "path": "music/Lady Gaga - Just Dance (Official Music Video) (feat. Colby O'Donis).mp3"
+  },
+  {
+    "title": "Poker Face",
+    "author": "Lady Gaga",
+    "duration": "3:33",
+    "path": "music/Lady Gaga - Poker Face.mp3"
+  },
+  {
+    "title": "Aliotta Haynes Jeremiah [Guardians of the Galaxy: Vol. 2] Official Soundtrack",
+    "author": "Lake Shore Drive",
+    "duration": "4:53",
+    "path": "music/Lake Shore Drive - Aliotta Haynes Jeremiah [Guardians of the Galaxy_ Vol. 2] Official Soundtrack.mp3"
+  },
+  {
+    "title": "The Ketchup Song (Aserejé) (Spanish Version)",
+    "author": "Las Ketchup",
+    "duration": "3:30",
+    "path": "music/Las Ketchup - The Ketchup Song (Aserejé) (Spanish Version).mp3"
+  },
+  {
+    "title": "CRAZY (feat. PinkPantheress)",
+    "author": "LE SSERAFIM",
+    "duration": "2:48",
+    "path": "music/LE SSERAFIM - CRAZY (feat. PinkPantheress).mp3"
+  },
+  {
+    "title": "Black Dog (Remaster)",
+    "author": "Led Zeppelin",
+    "duration": "4:55",
+    "path": "music/Led Zeppelin - Black Dog (Remaster).mp3"
+  },
+  {
+    "title": "Communication Breakdown",
+    "author": "Led Zeppelin",
+    "duration": "2:30",
+    "path": "music/Led Zeppelin - Communication Breakdown.mp3"
+  },
+  {
+    "title": "Dazed and Confused",
+    "author": "Led Zeppelin",
+    "duration": "6:28",
+    "path": "music/Led Zeppelin - Dazed and Confused.mp3"
+  },
+  {
+    "title": "Immigrant Song (Remaster)",
+    "author": "Led Zeppelin",
+    "duration": "2:26",
+    "path": "music/Led Zeppelin - Immigrant Song (Remaster).mp3"
+  },
+  {
+    "title": "Break Stuff",
+    "author": "Limp Bizkit",
+    "duration": "2:46",
+    "path": "music/Limp Bizkit - Break Stuff-1.mp3"
+  },
+  {
+    "title": "Break Stuff",
+    "author": "Limp Bizkit",
+    "duration": "2:47",
+    "path": "music/Limp Bizkit - Break Stuff.mp3"
+  },
+  {
+    "title": "Rollin' (Air Raid Vehicle)",
+    "author": "Limp Bizkit",
+    "duration": "4:02",
+    "path": "music/Limp Bizkit - Rollin' (Air Raid Vehicle).mp3"
+  },
+  {
+    "title": "Take A Look Around",
+    "author": "Limp Bizkit",
+    "duration": "5:21",
+    "path": "music/Limp Bizkit - Take A Look Around.mp3"
+  },
+  {
+    "title": "Rumble [HQ - Best Version]",
+    "author": "Link Wray",
+    "duration": "2:26",
+    "path": "music/Link Wray - Rumble [HQ - Best Version].mp3"
+  },
+  {
+    "title": "Funkytown (Single Version)",
+    "author": "Lipps Inc.",
+    "duration": "3:56",
+    "path": "music/Lipps Inc. - Funkytown (Single Version).mp3"
+  },
+  {
+    "title": "Good Golly Miss Molly",
+    "author": "Little Richard",
+    "duration": "2:07",
+    "path": "music/Little Richard - Good Golly Miss Molly.mp3"
+  },
+  {
+    "title": "Macarena (Bayside Boys Remix)",
+    "author": "Los Del Rio",
+    "duration": "3:42",
+    "path": "music/Los Del Rio - Macarena (Bayside Boys Remix).mp3"
+  },
+  {
+    "title": "La Bamba (Music Video)",
+    "author": "Los Lobos",
+    "duration": "3:04",
+    "path": "music/Los Lobos - La Bamba (Music Video).mp3"
+  },
+  {
+    "title": "Mambo No. 5 (a Little Bit of...)",
+    "author": "Lou Bega",
+    "duration": "3:40",
+    "path": "music/Lou Bega - Mambo No. 5 (a Little Bit of...).mp3"
+  },
+  {
+    "title": "Free Bird (Edit)",
+    "author": "Lynyrd Skynyrd",
+    "duration": "4:19",
+    "path": "music/Lynyrd Skynyrd - Free Bird (Edit).mp3"
+  },
+  {
+    "title": "Gimme Three Steps",
+    "author": "Lynyrd Skynyrd",
+    "duration": "4:27",
+    "path": "music/Lynyrd Skynyrd - Gimme Three Steps.mp3"
+  },
+  {
+    "title": "Simple Man (Audio)",
+    "author": "Lynyrd Skynyrd",
+    "duration": "5:59",
+    "path": "music/Lynyrd Skynyrd - Simple Man (Audio).mp3"
+  },
+  {
+    "title": "Simple Man",
+    "author": "Lynyrd Skynyrd",
+    "duration": "5:56",
+    "path": "music/Lynyrd Skynyrd - Simple Man.mp3"
+  },
+  {
+    "title": "Sweet Home Alabama (Lyric Video)",
+    "author": "Lynyrd Skynyrd",
+    "duration": "4:45",
+    "path": "music/Lynyrd Skynyrd - Sweet Home Alabama (Lyric Video).mp3"
+  },
+  {
+    "title": "Sweet Home Alabama",
+    "author": "Lynyrd Skynyrd",
+    "duration": "4:42",
+    "path": "music/Lynyrd Skynyrd - Sweet Home Alabama.mp3"
+  },
+  {
+    "title": "Thrift Shop (feat. Wanz)",
+    "author": "Macklemore",
+    "duration": "3:52",
+    "path": "music/Macklemore - Thrift Shop (feat. Wanz).mp3"
+  },
+  {
+    "title": "Our House",
+    "author": "Madness",
+    "duration": "3:46",
+    "path": "music/Madness - Our House.mp3"
+  },
+  {
+    "title": "Like a Prayer (Battle Royale Mix from “Deadpool & Wolverine”)",
+    "author": "Madonna",
+    "duration": "2:48",
+    "path": "music/Madonna - Like a Prayer (Battle Royale Mix from “Deadpool & Wolverine”).mp3"
+  },
+  {
+    "title": "Material Girl (2024 Remaster)",
+    "author": "Madonna",
+    "duration": "4:45",
+    "path": "music/Madonna - Material Girl (2024 Remaster).mp3"
+  },
+  {
+    "title": "Ain't No Mountain High Enough",
+    "author": "Marvin Gaye & Tammi Terrell",
+    "duration": "2:31",
+    "path": "music/Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough.mp3"
+  },
+  {
+    "title": "Lambé An Dro",
+    "author": "Matmatah",
+    "duration": "3:40",
+    "path": "music/Matmatah - Lambé An Dro.mp3"
+  },
+  {
+    "title": "Enter Sandman (Live with the SFSO)",
+    "author": "Metallica",
+    "duration": "5:31",
+    "path": "music/Metallica - Enter Sandman (Live with the SFSO).mp3"
+  },
+  {
+    "title": "Hope",
+    "author": "Michael Giacchino",
+    "duration": "1:37",
+    "path": "music/Michael Giacchino - Hope.mp3"
+  },
+  {
+    "title": "Spider-Man: Homecoming Suite",
+    "author": "Michael Giacchino",
+    "duration": "6:13",
+    "path": "music/Michael Giacchino - Spider-Man_ Homecoming Suite.mp3"
+  },
+  {
+    "title": "Theme (from \"Spider Man\") [Original Television Series]",
+    "author": "Michael Giacchino",
+    "duration": "0:40",
+    "path": "music/Michael Giacchino - Theme (from Spider Man) [Original Television Series].mp3"
+  },
+  {
+    "title": "Bad",
+    "author": "Michael Jackson",
+    "duration": "4:07",
+    "path": "music/Michael Jackson - Bad.mp3"
+  },
+  {
+    "title": "Beat It",
+    "author": "Michael Jackson",
+    "duration": "4:18",
+    "path": "music/Michael Jackson - Beat It.mp3"
+  },
+  {
+    "title": "Billie Jean",
+    "author": "Michael Jackson",
+    "duration": "4:55",
+    "path": "music/Michael Jackson - Billie Jean-1.mp3"
+  },
+  {
+    "title": "Billie Jean",
+    "author": "Michael Jackson",
+    "duration": "4:54",
+    "path": "music/Michael Jackson - Billie Jean.mp3"
+  },
+  {
+    "title": "Smooth Criminal",
+    "author": "Michael Jackson",
+    "duration": "4:17",
+    "path": "music/Michael Jackson - Smooth Criminal.mp3"
+  },
+  {
+    "title": "They Don't Care About Us (Remastered Version)",
+    "author": "Michael Jackson",
+    "duration": "4:44",
+    "path": "music/Michael Jackson - They Don't Care About Us (Remastered Version).mp3"
+  },
+  {
+    "title": "Michael Jackson Beat It Short version",
+    "author": "Unknown Artist",
+    "duration": "3:18",
+    "path": "music/Michael Jackson Beat It Short version.mp3"
+  },
+  {
+    "title": "Beds Are Burning",
+    "author": "Midnight Oil",
+    "duration": "4:15",
+    "path": "music/Midnight Oil - Beds Are Burning-1.mp3"
+  },
+  {
+    "title": "Beds Are Burning",
+    "author": "Midnight Oil",
+    "duration": "4:36",
+    "path": "music/Midnight Oil - Beds Are Burning.mp3"
+  },
+  {
+    "title": "Lady (Hear Me Tonight)",
+    "author": "Modjo",
+    "duration": "3:41",
+    "path": "music/Modjo - Lady (Hear Me Tonight).mp3"
+  },
+  {
+    "title": "Ace of Spades",
+    "author": "Motörhead",
+    "duration": "2:44",
+    "path": "music/Motörhead - Ace of Spades.mp3"
+  },
+  {
+    "title": "George Harrison [Guardians of the Galaxy: Vol. 2] Official Soundtrack",
+    "author": "My Sweet Lord",
+    "duration": "4:39",
+    "path": "music/My Sweet Lord - George Harrison [Guardians of the Galaxy_ Vol. 2] Official Soundtrack.mp3"
+  },
+  {
+    "title": "Beggin' | Band Cover",
+    "author": "Måneskin",
+    "duration": "3:36",
+    "path": "music/Måneskin - Beggin' _ Band Cover.mp3"
+  },
+  {
+    "title": "I WANNA BE YOUR SLAVE",
+    "author": "Måneskin",
+    "duration": "2:52",
+    "path": "music/Måneskin - I WANNA BE YOUR SLAVE.mp3"
+  },
+  {
+    "title": "Kickstart My Heart Edited",
+    "author": "Mötley Crüe",
+    "duration": "5:12",
+    "path": "music/Mötley Crüe - Kickstart My Heart Edited.mp3"
+  },
+  {
+    "title": "Hair of the Dog",
+    "author": "Nazareth",
+    "duration": "4:13",
+    "path": "music/Nazareth - Hair of the Dog.mp3"
+  },
+  {
+    "title": "Sweet Caroline",
+    "author": "Neil Diamond",
+    "duration": "3:23",
+    "path": "music/Neil Diamond - Sweet Caroline.mp3"
+  },
+  {
+    "title": "NENA | 99 Luftballons [1983] [Offizielles HD Musikvideo]",
+    "author": "Unknown Artist",
+    "duration": "3:54",
+    "path": "music/NENA _ 99 Luftballons [1983] [Offizielles HD Musikvideo].mp3"
+  },
+  {
+    "title": "Come As You Are",
+    "author": "Nirvana",
+    "duration": "3:44",
+    "path": "music/Nirvana - Come As You Are.mp3"
+  },
+  {
+    "title": "Spirit in the Sky",
+    "author": "Norman Greenbaum",
+    "duration": "3:59",
+    "path": "music/Norman Greenbaum - Spirit in the Sky.mp3"
+  },
+  {
+    "title": "Live Is Life",
+    "author": "Opus",
+    "duration": "4:02",
+    "path": "music/Opus - Live Is Life.mp3"
+  },
+  {
+    "title": "Crazy Train",
+    "author": "Ozzy Osbourne",
+    "duration": "3:46",
+    "path": "music/Ozzy Osbourne - Crazy Train.mp3"
+  },
+  {
+    "title": "Walk",
+    "author": "Pantera",
+    "duration": "5:15",
+    "path": "music/Pantera - Walk.mp3"
+  },
+  {
+    "title": "Last Resort Censored Version",
+    "author": "Papa Roach",
+    "duration": "3:18",
+    "path": "music/Papa Roach - Last Resort Censored Version.mp3"
+  },
+  {
+    "title": "Partenaire Particulier (pigeon version)",
+    "author": "Unknown Artist",
+    "duration": "2:40",
+    "path": "music/Partenaire Particulier (pigeon version).mp3"
+  },
+  {
+    "title": "Born to Be Alive (The Original)",
+    "author": "Patrick Hernandez",
+    "duration": "3:08",
+    "path": "music/Patrick Hernandez - Born to Be Alive (The Original).mp3"
+  },
+  {
+    "title": "The Bare Necessities (From \"The Jungle Book\"/Sing-Along)",
+    "author": "Phil Harris & Bruce Reitherman",
+    "duration": "2:54",
+    "path": "music/Phil Harris & Bruce Reitherman - The Bare Necessities (From The Jungle Book_Sing-Along).mp3"
+  },
+  {
+    "title": "PPAP (Pen Pineapple Apple Pen)",
+    "author": "PIKOTARO",
+    "duration": "1:09",
+    "path": "music/PIKOTARO - PPAP (Pen Pineapple Apple Pen).mp3"
+  },
+  {
+    "title": "Another Brick In The Wall (Part 1)",
+    "author": "Pink Floyd",
+    "duration": "3:11",
+    "path": "music/Pink Floyd - Another Brick In The Wall (Part 1).mp3"
+  },
+  {
+    "title": "Another Brick In The Wall (Part 2)",
+    "author": "Pink Floyd",
+    "duration": "3:58",
+    "path": "music/Pink Floyd - Another Brick In The Wall (Part 2).mp3"
+  },
+  {
+    "title": "Timber",
+    "author": "Pitbull & Ke$ha",
+    "duration": "3:34",
+    "path": "music/Pitbull & Ke$ha - Timber.mp3"
+  },
+  {
+    "title": "Fireball (Official Video) (feat. John Ryan)",
+    "author": "Pitbull",
+    "duration": "4:01",
+    "path": "music/Pitbull - Fireball (Official Video) (feat. John Ryan).mp3"
+  },
+  {
+    "title": "Ça plane pour moi",
+    "author": "Plastic Bertrand",
+    "duration": "2:59",
+    "path": "music/Plastic Bertrand - Ça plane pour moi.mp3"
+  },
+  {
+    "title": "Footsteps",
+    "author": "Pop Evil",
+    "duration": "4:19",
+    "path": "music/Pop Evil - Footsteps.mp3"
+  },
+  {
+    "title": "Feel It Still",
+    "author": "Portugal. The Man",
+    "duration": "2:50",
+    "path": "music/Portugal. The Man - Feel It Still.mp3"
+  },
+  {
+    "title": "Another One Bites The Dust",
+    "author": "Queen",
+    "duration": "3:42",
+    "path": "music/Queen - Another One Bites The Dust.mp3"
+  },
+  {
+    "title": "Bicycle Race",
+    "author": "Queen",
+    "duration": "3:00",
+    "path": "music/Queen - Bicycle Race.mp3"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "author": "Queen",
+    "duration": "5:59",
+    "path": "music/Queen - Bohemian Rhapsody.mp3"
+  },
+  {
+    "title": "Don't Stop Me Now",
+    "author": "Queen",
+    "duration": "3:29",
+    "path": "music/Queen - Don't Stop Me Now.mp3"
+  },
+  {
+    "title": "I Want to Break Free",
+    "author": "Queen",
+    "duration": "4:31",
+    "path": "music/Queen - I Want to Break Free.mp3"
+  },
+  {
+    "title": "Killer Queen",
+    "author": "Queen",
+    "duration": "3:12",
+    "path": "music/Queen - Killer Queen.mp3"
+  },
+  {
+    "title": "We Will Rock You",
+    "author": "Queen",
+    "duration": "2:02",
+    "path": "music/Queen - We Will Rock You.mp3"
+  },
+  {
+    "title": "Bulls On Parade",
+    "author": "Rage Against The Machine",
+    "duration": "3:53",
+    "path": "music/Rage Against The Machine - Bulls On Parade.mp3"
+  },
+  {
+    "title": "Killing In the Name",
+    "author": "Rage Against The Machine",
+    "duration": "5:13",
+    "path": "music/Rage Against The Machine - Killing In the Name.mp3"
+  },
+  {
+    "title": "Since You Been Gone (Guardians of the Galaxy 3 Soundtrack)",
+    "author": "Rainbow",
+    "duration": "3:42",
+    "path": "music/Rainbow - Since You Been Gone (Guardians of the Galaxy 3 Soundtrack).mp3"
+  },
+  {
+    "title": "Black Betty",
+    "author": "Ram Jam",
+    "duration": "2:24",
+    "path": "music/Ram Jam - Black Betty.mp3"
+  },
+  {
+    "title": "Pacific Rim (feat. Tom Morello)",
+    "author": "Ramin Djawadi",
+    "duration": "4:55",
+    "path": "music/Ramin Djawadi - Pacific Rim (feat. Tom Morello).mp3"
+  },
+  {
+    "title": "Du Hast",
+    "author": "Rammstein",
+    "duration": "3:55",
+    "path": "music/Rammstein - Du Hast.mp3"
+  },
+  {
+    "title": "Sonne",
+    "author": "Rammstein",
+    "duration": "4:32",
+    "path": "music/Rammstein - Sonne.mp3"
+  },
+  {
+    "title": "Californication",
+    "author": "Red Hot Chili Peppers",
+    "duration": "5:29",
+    "path": "music/Red Hot Chili Peppers - Californication.mp3"
+  },
+  {
+    "title": "Can't Stop",
+    "author": "Red Hot Chili Peppers",
+    "duration": "4:38",
+    "path": "music/Red Hot Chili Peppers - Can't Stop.mp3"
+  },
+  {
+    "title": "Come and Get Your Love (Single Version)",
+    "author": "Redbone",
+    "duration": "3:25",
+    "path": "music/Redbone - Come and Get Your Love (Single Version).mp3"
+  },
+  {
+    "title": "Richard Sanderson \"Reality\" (La boum) | Archive INA",
+    "author": "Unknown Artist",
+    "duration": "4:45",
+    "path": "music/Richard Sanderson Reality (La boum) _ Archive INA.mp3"
+  },
+  {
+    "title": "Super Freak",
+    "author": "Rick James",
+    "duration": "3:22",
+    "path": "music/Rick James - Super Freak.mp3"
+  },
+  {
+    "title": "Livin' la Vida Loca",
+    "author": "Ricky Martin",
+    "duration": "4:03",
+    "path": "music/Ricky Martin - Livin' la Vida Loca.mp3"
+  },
+  {
+    "title": "Don't Stop The Music",
+    "author": "Rihanna",
+    "duration": "4:27",
+    "path": "music/Rihanna - Don't Stop The Music.mp3"
+  },
+  {
+    "title": "Dragula",
+    "author": "Rob Zombie",
+    "duration": "3:47",
+    "path": "music/Rob Zombie - Dragula.mp3"
+  },
+  {
+    "title": "Living Dead Girl",
+    "author": "Rob Zombie",
+    "duration": "3:22",
+    "path": "music/Rob Zombie - Living Dead Girl.mp3"
+  },
+  {
+    "title": "Africa",
+    "author": "Rose Laurens",
+    "duration": "3:39",
+    "path": "music/Rose Laurens - Africa.mp3"
+  },
+  {
+    "title": "Espresso",
+    "author": "Sabrina Carpenter",
+    "duration": "2:55",
+    "path": "music/Sabrina Carpenter - Espresso.mp3"
+  },
+  {
+    "title": "Click Click Boom",
+    "author": "Saliva",
+    "duration": "3:51",
+    "path": "music/Saliva - Click Click Boom.mp3"
+  },
+  {
+    "title": "Scatman (Ski‐Ba‐Bop‐Ba‐Dop‐Bop)",
+    "author": "Scatman John",
+    "duration": "3:30",
+    "path": "music/Scatman John - Scatman (Ski‐Ba‐Bop‐Ba‐Dop‐Bop).mp3"
+  },
+  {
+    "title": "Believe In Love",
+    "author": "Scorpions",
+    "duration": "4:02",
+    "path": "music/Scorpions - Believe In Love.mp3"
+  },
+  {
+    "title": "Big City Nights (Live) (2015 - Remaster)",
+    "author": "Scorpions",
+    "duration": "4:58",
+    "path": "music/Scorpions - Big City Nights (Live) (2015 - Remaster).mp3"
+  },
+  {
+    "title": "Born to Touch Your Feelings (Studio Edit)",
+    "author": "Scorpions",
+    "duration": "4:01",
+    "path": "music/Scorpions - Born to Touch Your Feelings (Studio Edit).mp3"
+  },
+  {
+    "title": "In Your Park",
+    "author": "Scorpions",
+    "duration": "3:42",
+    "path": "music/Scorpions - In Your Park.mp3"
+  },
+  {
+    "title": "Lonely Nights",
+    "author": "Scorpions",
+    "duration": "8:07",
+    "path": "music/Scorpions - Lonely Nights.mp3"
+  },
+  {
+    "title": "Love Will Keep Us Alive (Single Edit)",
+    "author": "Scorpions",
+    "duration": "3:15",
+    "path": "music/Scorpions - Love Will Keep Us Alive (Single Edit).mp3"
+  },
+  {
+    "title": "No One Like You",
+    "author": "Scorpions",
+    "duration": "3:54",
+    "path": "music/Scorpions - No One Like You.mp3"
+  },
+  {
+    "title": "Rhythm of Love",
+    "author": "Scorpions",
+    "duration": "3:40",
+    "path": "music/Scorpions - Rhythm of Love.mp3"
+  },
+  {
+    "title": "Rock You Like A Hurricane",
+    "author": "Scorpions",
+    "duration": "4:12",
+    "path": "music/Scorpions - Rock You Like A Hurricane.mp3"
+  },
+  {
+    "title": "Send Me An Angel",
+    "author": "Scorpions",
+    "duration": "4:33",
+    "path": "music/Scorpions - Send Me An Angel.mp3"
+  },
+  {
+    "title": "Still Loving You (2015 - Remaster)",
+    "author": "Scorpions",
+    "duration": "6:28",
+    "path": "music/Scorpions - Still Loving You (2015 - Remaster).mp3"
+  },
+  {
+    "title": "Still Loving You (original video)",
+    "author": "Scorpions",
+    "duration": "3:51",
+    "path": "music/Scorpions - Still Loving You (original video).mp3"
+  },
+  {
+    "title": "Tease Me Please Me",
+    "author": "Scorpions",
+    "duration": "4:45",
+    "path": "music/Scorpions - Tease Me Please Me.mp3"
+  },
+  {
+    "title": "Viento De Cambio",
+    "author": "Scorpions",
+    "duration": "5:08",
+    "path": "music/Scorpions - Viento De Cambio.mp3"
+  },
+  {
+    "title": "Wind Of Change",
+    "author": "Scorpions",
+    "duration": "5:12",
+    "path": "music/Scorpions - Wind Of Change.mp3"
+  },
+  {
+    "title": "Feel Invincible",
+    "author": "Skillet",
+    "duration": "3:47",
+    "path": "music/Skillet - Feel Invincible.mp3"
+  },
+  {
+    "title": "I'm A Believer",
+    "author": "Smash Mouth",
+    "duration": "3:04",
+    "path": "music/Smash Mouth - I'm A Believer.mp3"
+  },
+  {
+    "title": "Tainted Love",
+    "author": "Soft Cell",
+    "duration": "2:39",
+    "path": "music/Soft Cell - Tainted Love.mp3"
+  },
+  {
+    "title": "Glen Campbell [Guardians of the Galaxy: Vol 2] Official Soundtrack",
+    "author": "Southern Nights",
+    "duration": "2:54",
+    "path": "music/Southern Nights - Glen Campbell [Guardians of the Galaxy_ Vol 2] Official Soundtrack.mp3"
+  },
+  {
+    "title": "In the Meantime Lyrics (Guardians of the Galaxy Vol 3 Soundtrack)",
+    "author": "Spacehog",
+    "duration": "5:42",
+    "path": "music/Spacehog - In the Meantime Lyrics (Guardians of the Galaxy Vol 3 Soundtrack).mp3"
+  },
+  {
+    "title": "Wannabe",
+    "author": "Spice Girls",
+    "duration": "2:53",
+    "path": "music/Spice Girls - Wannabe.mp3"
+  },
+  {
+    "title": "I Should Have Known",
+    "author": "Status Quo",
+    "duration": "3:33",
+    "path": "music/Status Quo - I Should Have Known.mp3"
+  },
+  {
+    "title": "Reelin' In The Years",
+    "author": "Steely Dan",
+    "duration": "4:35",
+    "path": "music/Steely Dan - Reelin' In The Years.mp3"
+  },
+  {
+    "title": "Born To Be Wild",
+    "author": "Steppenwolf",
+    "duration": "3:30",
+    "path": "music/Steppenwolf - Born To Be Wild.mp3"
+  },
+  {
+    "title": "Live From Austin T",
+    "author": "Stevie Ray Vaughan ~Voodoo Child",
+    "duration": "8:01",
+    "path": "music/Stevie Ray Vaughan ~Voodoo Child - Live From Austin T.mp3"
+  },
+  {
+    "title": "Superstition",
+    "author": "Stevie Wonder",
+    "duration": "4:26",
+    "path": "music/Stevie Wonder - Superstition.mp3"
+  },
+  {
+    "title": "Eye Of The Tiger",
+    "author": "Survivor",
+    "duration": "4:04",
+    "path": "music/Survivor - Eye Of The Tiger.mp3"
+  },
+  {
+    "title": "Everybody Wants To Rule The World",
+    "author": "Tears For Fears",
+    "duration": "4:50",
+    "path": "music/Tears For Fears - Everybody Wants To Rule The World.mp3"
+  },
+  {
+    "title": "The House of the Rising Sun",
+    "author": "The Animals",
+    "duration": "4:27",
+    "path": "music/The Animals - The House of the Rising Sun.mp3"
+  },
+  {
+    "title": "Come Together",
+    "author": "The Beatles",
+    "duration": "4:18",
+    "path": "music/The Beatles - Come Together.mp3"
+  },
+  {
+    "title": "Let's Get It Started",
+    "author": "The Black Eyed Peas",
+    "duration": "3:49",
+    "path": "music/The Black Eyed Peas - Let's Get It Started.mp3"
+  },
+  {
+    "title": "Soul Man (45 Version)",
+    "author": "The Blues Brothers",
+    "duration": "3:02",
+    "path": "music/The Blues Brothers - Soul Man (45 Version).mp3"
+  },
+  {
+    "title": "Video Killed The Radio Star",
+    "author": "The Buggles",
+    "duration": "3:21",
+    "path": "music/The Buggles - Video Killed The Radio Star.mp3"
+  },
+  {
+    "title": "Lovefool",
+    "author": "The Cardigans",
+    "duration": "3:15",
+    "path": "music/The Cardigans - Lovefool.mp3"
+  },
+  {
+    "title": "Fleetwood Mac [Guardians of the Galaxy: Vol. 2] Official Soundtrack",
+    "author": "The Chain",
+    "duration": "4:32",
+    "path": "music/The Chain - Fleetwood Mac [Guardians of the Galaxy_ Vol. 2] Official Soundtrack.mp3"
+  },
+  {
+    "title": "Pipeline",
+    "author": "The Chantays",
+    "duration": "2:19",
+    "path": "music/The Chantays - Pipeline.mp3"
+  },
+  {
+    "title": "Should I Stay or Should I Go",
+    "author": "The Clash",
+    "duration": "3:09",
+    "path": "music/The Clash - Should I Stay or Should I Go-1.mp3"
+  },
+  {
+    "title": "Should I Stay or Should I Go",
+    "author": "The Clash",
+    "duration": "3:09",
+    "path": "music/The Clash - Should I Stay or Should I Go.mp3"
+  },
+  {
+    "title": "Zombie",
+    "author": "The Cranberries",
+    "duration": "5:07",
+    "path": "music/The Cranberries - Zombie.mp3"
+  },
+  {
+    "title": "China Grove (2006 Remaster)",
+    "author": "The Doobie Brothers",
+    "duration": "3:15",
+    "path": "music/The Doobie Brothers - China Grove (2006 Remaster).mp3"
+  },
+  {
+    "title": "China Grove",
+    "author": "The Doobie Brothers",
+    "duration": "3:15",
+    "path": "music/The Doobie Brothers - China Grove.mp3"
+  },
+  {
+    "title": "Listen to the Music (Single Version)",
+    "author": "The Doobie Brothers",
+    "duration": "3:24",
+    "path": "music/The Doobie Brothers - Listen to the Music (Single Version).mp3"
+  },
+  {
+    "title": "The Fields Of Athenry (feat. Paddy Reilly)",
+    "author": "The Dubliners",
+    "duration": "4:46",
+    "path": "music/The Dubliners - The Fields Of Athenry (feat. Paddy Reilly).mp3"
+  },
+  {
+    "title": "Long Cool Woman (in a Black Dress)",
+    "author": "The Hollies",
+    "duration": "3:19",
+    "path": "music/The Hollies - Long Cool Woman (in a Black Dress).mp3"
+  },
+  {
+    "title": "Yuve Yuve Yu",
+    "author": "The HU",
+    "duration": "5:52",
+    "path": "music/The HU - Yuve Yuve Yu.mp3"
+  },
+  {
+    "title": "Mr. Brightside",
+    "author": "The Killers",
+    "duration": "3:47",
+    "path": "music/The Killers - Mr. Brightside.mp3"
+  },
+  {
+    "title": "Come Out and Play",
+    "author": "The Offspring",
+    "duration": "3:14",
+    "path": "music/The Offspring - Come Out and Play.mp3"
+  },
+  {
+    "title": "Coming for You",
+    "author": "The Offspring",
+    "duration": "4:04",
+    "path": "music/The Offspring - Coming for You.mp3"
+  },
+  {
+    "title": "Pretty Fly (For A White Guy)",
+    "author": "The Offspring",
+    "duration": "3:08",
+    "path": "music/The Offspring - Pretty Fly (For A White Guy).mp3"
+  },
+  {
+    "title": "The Kids Aren't Alright",
+    "author": "The Offspring",
+    "duration": "2:59",
+    "path": "music/The Offspring - The Kids Aren't Alright.mp3"
+  },
+  {
+    "title": "I'm So Excited",
+    "author": "The Pointer Sisters",
+    "duration": "3:47",
+    "path": "music/The Pointer Sisters - I'm So Excited-1.mp3"
+  },
+  {
+    "title": "I'm So Excited",
+    "author": "The Pointer Sisters",
+    "duration": "3:50",
+    "path": "music/The Pointer Sisters - I'm So Excited.mp3"
+  },
+  {
+    "title": "I Will Dare | Guardians of the Galaxy 3 Soundtrack",
+    "author": "The Replacements",
+    "duration": "3:52",
+    "path": "music/The Replacements - I Will Dare _ Guardians of the Galaxy 3 Soundtrack.mp3"
+  },
+  {
+    "title": "(I Can't Get No) Satisfaction",
+    "author": "The Rolling Stones",
+    "duration": "3:54",
+    "path": "music/The Rolling Stones - (I Can't Get No) Satisfaction.mp3"
+  },
+  {
+    "title": "Angie (Remastered 2009)",
+    "author": "The Rolling Stones",
+    "duration": "4:32",
+    "path": "music/The Rolling Stones - Angie (Remastered 2009).mp3"
+  },
+  {
+    "title": "Bitch (2009 Mix)",
+    "author": "The Rolling Stones",
+    "duration": "3:37",
+    "path": "music/The Rolling Stones - Bitch (2009 Mix).mp3"
+  },
+  {
+    "title": "Paint It, Black",
+    "author": "The Rolling Stones",
+    "duration": "3:22",
+    "path": "music/The Rolling Stones - Paint It, Black-1.mp3"
+  },
+  {
+    "title": "Paint It, Black",
+    "author": "The Rolling Stones",
+    "duration": "3:46",
+    "path": "music/The Rolling Stones - Paint It, Black.mp3"
+  },
+  {
+    "title": "The Rolling Stones- Miss You",
+    "author": "Unknown Artist",
+    "duration": "3:33",
+    "path": "music/The Rolling Stones- Miss You.mp3"
+  },
+  {
+    "title": "Iridium",
+    "author": "The SIDH",
+    "duration": "4:23",
+    "path": "music/The SIDH - Iridium.mp3"
+  },
+  {
+    "title": "Wipe Out",
+    "author": "The Surfaris",
+    "duration": "2:46",
+    "path": "music/The Surfaris - Wipe Out.mp3"
+  },
+  {
+    "title": "Happy Together",
+    "author": "The Turtles",
+    "duration": "2:56",
+    "path": "music/The Turtles - Happy Together.mp3"
+  },
+  {
+    "title": "Seven Nation Army (Live)",
+    "author": "The White Stripes",
+    "duration": "3:58",
+    "path": "music/The White Stripes - Seven Nation Army (Live).mp3"
+  },
+  {
+    "title": "I Can't Explain",
+    "author": "The Who",
+    "duration": "2:05",
+    "path": "music/The Who - I Can't Explain.mp3"
+  },
+  {
+    "title": "Pinball Wizard",
+    "author": "The Who",
+    "duration": "3:00",
+    "path": "music/The Who - Pinball Wizard.mp3"
+  },
+  {
+    "title": "Bad Girlfriend",
+    "author": "Theory Of A Deadman",
+    "duration": "3:27",
+    "path": "music/Theory Of A Deadman - Bad Girlfriend.mp3"
+  },
+  {
+    "title": "Le jerk (Audio)",
+    "author": "Thierry Hazard",
+    "duration": "3:55",
+    "path": "music/Thierry Hazard - Le jerk (Audio).mp3"
+  },
+  {
+    "title": "Angel From The Coast (New Stereo Version / 2024)",
+    "author": "Thin Lizzy",
+    "duration": "3:07",
+    "path": "music/Thin Lizzy - Angel From The Coast (New Stereo Version _ 2024).mp3"
+  },
+  {
+    "title": "Chinatown",
+    "author": "Thin Lizzy",
+    "duration": "4:43",
+    "path": "music/Thin Lizzy - Chinatown.mp3"
+  },
+  {
+    "title": "The Boys Are Back In Town (Remix)",
+    "author": "Thin Lizzy",
+    "duration": "4:32",
+    "path": "music/Thin Lizzy - The Boys Are Back In Town (Remix).mp3"
+  },
+  {
+    "title": "Animal I Have Become",
+    "author": "Three Days Grace",
+    "duration": "3:50",
+    "path": "music/Three Days Grace - Animal I Have Become.mp3"
+  },
+  {
+    "title": "I Hate Everything About You",
+    "author": "Three Days Grace",
+    "duration": "3:39",
+    "path": "music/Three Days Grace - I Hate Everything About You.mp3"
+  },
+  {
+    "title": "Riot (Audio)",
+    "author": "Three Days Grace",
+    "duration": "3:28",
+    "path": "music/Three Days Grace - Riot (Audio).mp3"
+  },
+  {
+    "title": "So Called Life",
+    "author": "Three Days Grace",
+    "duration": "3:24",
+    "path": "music/Three Days Grace - So Called Life.mp3"
+  },
+  {
+    "title": "What's Love Got To Do With It",
+    "author": "Tina Turner",
+    "duration": "3:46",
+    "path": "music/Tina Turner - What's Love Got To Do With It.mp3"
+  },
+  {
+    "title": "Cheat Codes",
+    "author": "Tokyo Machine",
+    "duration": "3:29",
+    "path": "music/Tokyo Machine - Cheat Codes.mp3"
+  },
+  {
+    "title": "Africa",
+    "author": "Toto",
+    "duration": "4:54",
+    "path": "music/Toto - Africa.mp3"
+  },
+  {
+    "title": "Antisocial",
+    "author": "TRUST",
+    "duration": "5:09",
+    "path": "music/TRUST - Antisocial-1.mp3"
+  },
+  {
+    "title": "Antisocial",
+    "author": "TRUST",
+    "duration": "5:09",
+    "path": "music/TRUST - Antisocial.mp3"
+  },
+  {
+    "title": "Stressed Out",
+    "author": "twenty one pilots",
+    "duration": "3:45",
+    "path": "music/twenty one pilots - Stressed Out.mp3"
+  },
+  {
+    "title": "Argent trop cher (remasterisé en 2015)",
+    "author": "Téléphone",
+    "duration": "4:03",
+    "path": "music/Téléphone - Argent trop cher (remasterisé en 2015).mp3"
+  },
+  {
+    "title": "Hygiaphone (remasterisé en 2015)",
+    "author": "Téléphone",
+    "duration": "2:57",
+    "path": "music/Téléphone - Hygiaphone (remasterisé en 2015).mp3"
+  },
+  {
+    "title": "New York avec toi",
+    "author": "Téléphone",
+    "duration": "2:22",
+    "path": "music/Téléphone - New York avec toi.mp3"
+  },
+  {
+    "title": "Un autre monde",
+    "author": "Téléphone",
+    "duration": "4:33",
+    "path": "music/Téléphone - Un autre monde.mp3"
+  },
+  {
+    "title": "Ça c'est vraiment toi",
+    "author": "Téléphone",
+    "duration": "4:10",
+    "path": "music/Téléphone - Ça c'est vraiment toi.mp3"
+  },
+  {
+    "title": "Ain't Talkin' 'Bout Love",
+    "author": "Van Halen",
+    "duration": "3:47",
+    "path": "music/Van Halen - Ain't Talkin' 'Bout Love.mp3"
+  },
+  {
+    "title": "Jump",
+    "author": "Van Halen",
+    "duration": "4:02",
+    "path": "music/Van Halen - Jump.mp3"
+  },
+  {
+    "title": "Brown Eyed Girl",
+    "author": "Van Morrison",
+    "duration": "3:03",
+    "path": "music/Van Morrison - Brown Eyed Girl.mp3"
+  },
+  {
+    "title": "Cherry Pie",
+    "author": "Warrant",
+    "duration": "3:19",
+    "path": "music/Warrant - Cherry Pie.mp3"
+  },
+  {
+    "title": "Wake Me Up Before You Go-Go",
+    "author": "Wham!",
+    "duration": "3:53",
+    "path": "music/Wham! - Wake Me Up Before You Go-Go.mp3"
+  },
+  {
+    "title": "Fortnite Lobby Track",
+    "author": "WHERE MY WOOKIES AT? (Lyrics) English",
+    "duration": "3:05",
+    "path": "music/WHERE MY WOOKIES AT_ (Lyrics) English - Fortnite Lobby Track.mp3"
+  },
+  {
+    "title": "Fou de toi",
+    "author": "White gunnas",
+    "duration": "2:12",
+    "path": "music/White gunnas - Fou de toi.mp3"
+  },
+  {
+    "title": "YOUNGEST IN THE HARAM (pimees Remix) (feat. pimees)",
+    "author": "White gunnas",
+    "duration": "2:10",
+    "path": "music/White gunnas - YOUNGEST IN THE HARAM (pimees Remix) (feat. pimees).mp3"
+  },
+  {
+    "title": "Poor Girl [Guardians of the Galaxy 3 OST]",
+    "author": "X",
+    "duration": "3:18",
+    "path": "music/X - Poor Girl [Guardians of the Galaxy 3 OST].mp3"
+  },
+  {
+    "title": "Owner of a Lonely Heart",
+    "author": "Yes",
+    "duration": "4:28",
+    "path": "music/Yes - Owner of a Lonely Heart.mp3"
+  },
+  {
+    "title": "Gimme All Your Lovin'",
+    "author": "ZZ Top",
+    "duration": "4:39",
+    "path": "music/ZZ Top - Gimme All Your Lovin'.mp3"
+  },
+  {
+    "title": "Got Me Under Pressure (2008 Remaster)",
+    "author": "ZZ Top",
+    "duration": "4:03",
+    "path": "music/ZZ Top - Got Me Under Pressure (2008 Remaster).mp3"
+  },
+  {
+    "title": "La Grange",
+    "author": "ZZ Top",
+    "duration": "3:54",
+    "path": "music/ZZ Top - La Grange-1.mp3"
+  },
+  {
+    "title": "La Grange",
+    "author": "ZZ Top",
+    "duration": "4:38",
+    "path": "music/ZZ Top - La Grange.mp3"
+  },
+  {
+    "title": "Sharp Dressed Man",
+    "author": "ZZ Top",
+    "duration": "4:13",
+    "path": "music/ZZ Top - Sharp Dressed Man.mp3"
+  },
+  {
+    "title": "Bye Bye Bye [Deadpool & Wolverine Soundtrack]",
+    "author": "_NSYNC",
+    "duration": "3:48",
+    "path": "music/_NSYNC - Bye Bye Bye [Deadpool & Wolverine Soundtrack].mp3"
+  }
+]
