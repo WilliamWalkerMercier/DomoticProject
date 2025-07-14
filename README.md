@@ -14,7 +14,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, it features:
 
 ## 🖼️ Preview
 
-![music-player-demo](preview.png)  
+![music-player-demo](Maquette.jpg)  
 *(Replace this with your screenshot)*
 
 ---
