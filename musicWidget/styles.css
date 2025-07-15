@@ -48,6 +48,10 @@ audio {
     border: 10px solid rgb(1, 10, 78);
     margin-bottom: 20px;
 }
+.vinyl:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
 
 #audioInfo {
     width: 250px;

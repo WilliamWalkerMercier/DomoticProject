@@ -56,7 +56,9 @@ audioPlayer.addEventListener("timeupdate", function () {
     const timeDisplay = document.getElementById("timeDisplay");
     timeDisplay.textContent = `${current} / ${total}`;
 });
-
+vynilElement.addEventListener("click", function () {
+   play(currentIndex);
+});
 progressBar.addEventListener("click", function (e) {
     const rect = progressBar.getBoundingClientRect();
     const clickX = e.clientX - rect.left;
